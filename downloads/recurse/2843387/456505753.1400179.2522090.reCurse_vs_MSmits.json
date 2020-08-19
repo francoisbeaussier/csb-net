@@ -1,0 +1,1367 @@
+{
+    "frames": [
+        {
+            "gameInformation": "",
+            "summary": "$0 rank: 1\n$1 rank: 1\n",
+            "view": " 0\nCodersStrikeBack\n16000 9000 400 600 4 0.3141592653589793\n6003 5374 11296 2830 7520 6961\n0 5786.0 4923.0 0 6220.0 5825.0 1 5353.0 4022.0 1 6653.0 6726.0\n5786.0 4923.0 0 0 0 0 null null null 0 1 1\n\"\"\n6220.0 5825.0 0 0 0 0 null null null 0 1 1\n\"\"\n5353.0 4022.0 0 0 0 0 null null null 0 1 1\n\"\"\n6653.0 6726.0 0 0 0 0 null null null 0 1 1\n\"\"\n1:100 1:100\n",
+            "keyframe": true,
+            "agentId": -1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (83720, -57736) at power 200\nPod 2 of player $0 moves towards (103833, -15890) at power 200\n",
+            "stdout": "83720 -57736 200\n103833 -15890 200\n",
+            "view": " 1\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 boosts towards (103400, -15644)\nPod 2 of player $1 boosts towards (83257, -57553)\n",
+            "stdout": "103400 -15644 BOOST Sims: 175k\n83257 -57553 BOOST Average: 175k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 2\n5942.0 4798.0 132 -106 200 0 83720 -57736 -0.6771757107863396 0 1 3\n\"\"\n6415.0 5782.0 165 -36 200 0 103833 -15890 -0.2188956400292674 0 1 4\n\"\"\n5990.0 3894.0 541 -108 650 0 103400 -15644 -0.19795056949085416 0 1 2\n\"Sims: 175k\"\n7151.0 6308.0 423 -355 650 0 83257 -57553 -0.6981363878746547 0 1 1\n\"Average: 175k\"\n2:99 1:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (99300, -31038) at power 200\nPod 2 of player $0 moves towards (92131, -45721) at power 200\n",
+            "stdout": "99300 -31038 200\n92131 -45721 200\n",
+            "view": " 3\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (105315, 15489) at power 0\nPod 2 of player $1 moves towards (83755, -57971) at power 200\n",
+            "stdout": "105315 15489 0 Sims: 175k\n83755 -57971 200 Average: 175k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 4\n6261.0 4620.0 270 -151 200 0 99300 -31038 -0.3665118741982433 0 1 3\n\"\"\n6752.0 5644.0 286 -116 200 0 92131 -45721 -0.5330549053882467 0 1 4\n\"\"\n6531.0 3786.0 459 -91 0 0 105315 15489 0.11620869586812516 0 1 2\n\"Sims: 175k\"\n7727.0 5824.0 489 -411 200 0 83755 -57971 -0.6981363878746547 0 1 1\n\"Average: 175k\"\n2:98 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (106123, -613) at power 200\nPod 2 of player $0 moves towards (72357, -69827) at power 0\n",
+            "stdout": "106123 -613 200\n72357 -69827 0\n",
+            "view": " 5\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (97412, 45507) at power 0\nPod 2 of player $1 moves towards (100445, -31637) at power 200\n",
+            "stdout": "97412 45507 0 Sims: 125k\n100445 -31637 200 Average: 158k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 6\n6731.0 4459.0 399 -137 200 0 106123 -613 -0.052354428436624745 0 1 3\n\"\"\n7038.0 5528.0 243 -98 0 0 72357 -69827 -0.847214170747226 0 1 4\n\"\"\n6990.0 3695.0 390 -77 0 0 97412 45507 0.43036796122710447 0 1 2\n\"Sims: 125k\"\n8401.0 5338.0 573 -413 200 0 100445 -31637 -0.3839771225156754 0 1 1\n\"Average: 158k\"\n2:97 1:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (100088, -31377) at power 200\nPod 2 of player $0 moves towards (46111, -86522) at power 200\n",
+            "stdout": "100088 -31377 200\n46111 -86522 200\n",
+            "view": " 7\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (80530, 71458) at power 200\nPod 2 of player $1 moves towards (85005, -58941) at power 0\n",
+            "stdout": "80530 71458 200 Sims: 137k\n85005 -58941 0 Average: 153k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 8\n7225.0 4458.0 368 -257 200 0 100088 -31377 -0.36651369379560406 0 1 3\n\"\"\n7368.0 5287.0 330 56 200 0 46111 -86522 -1.1613734361062054 0 1 4\n\"\"\n7611.0 3506.0 530 -166 200 0 80530 71458 0.7445272265860838 0 1 2\n\"Sims: 137k\"\n8974.0 4925.0 487 -351 0 0 85005 -58941 -0.6981363878746547 0 1 1\n\"Average: 153k\"\n2:96 1:96\n0 0.024968211864038997 2 7003 3696 0 6746 4454 268.61698541690305 561 -75\n1 0.8844433987743795 1 7323 5279 0 7175 4493 354.2011644970906 411 -118\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (100583, -31378) at power 200\nPod 2 of player $0 moves towards (16083, -94332) at power 200\n",
+            "stdout": "100583 -31378 200\n16083 -94332 200\n",
+            "view": " 9\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (56612, 90678) at power 0\nPod 2 of player $1 moves towards (61965, -79880) at power 0\n",
+            "stdout": "56612 90678 0 Sims: 140k\n61965 -79880 0 Average: 150k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 10\n7780.0 4129.0 471 -279 200 0 100583 -31378 -0.3665118741982433 0 1 3\n\"\"\n7717.0 5144.0 296 -121 200 0 16083 -94332 -1.4755327014651847 0 1 4\n\"\"\n8141.0 3340.0 450 -141 0 0 56612 90678 1.0586864919450631 0 1 2\n\"Sims: 140k\"\n9461.0 4574.0 413 -298 0 0 61965 -79880 -1.012295653233634 0 1 1\n\"Average: 150k\"\n2:95 1:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (101138, -31707) at power 200\nPod 2 of player $0 moves towards (46790, -86906) at power 200\n",
+            "stdout": "101138 -31707 200\n46790 -86906 200\n",
+            "view": " 11\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (27807, 101387) at power 200\nPod 2 of player $1 moves towards (33652, -92456) at power 0\n",
+            "stdout": "27807 101387 200 Sims: 148k\n33652 -92456 0 Average: 150k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 12\n8294.0 4064.0 462 -226 200 0 101138 -31707 -0.3665118741982433 0 1 3\n\"\"\n8080.0 4890.0 258 8 200 0 46790 -86906 -1.1693697412168955 0 1 4\n\"\"\n8786.0 3058.0 572 -292 200 0 27807 101387 1.3728457573040425 0 1 2\n\"Sims: 148k\"\n9874.0 4276.0 351 -253 0 0 33652 -92456 -1.3264549185926133 0 1 1\n\"Average: 150k\"\n2:94 1:94\n2 0.15412912685351898 2 8216 3348 0 7881 4075 438.98717619920626 574 -148\n3 0.8377832675323238 1 8030 4888 0 8205 4108 322.7244094746837 424 -129\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (101652, -31772) at power 200\nPod 2 of player $0 moves towards (47152, -87160) at power 0\n",
+            "stdout": "101652 -31772 200\n47152 -87160 0\n",
+            "view": " 13\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-2809, 102383) at power 200\nPod 2 of player $1 moves towards (2898, -95480) at power 0\n",
+            "stdout": "-2809 102383 200 Sims: 145k\n2898 -95480 0 Average: 149k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 14\n8943.0 3766.0 551 -253 200 0 101652 -31772 -0.3665118741982433 0 1 3\n\"\"\n8338.0 4898.0 219 6 0 0 47152 -87160 -1.1693789463432303 0 1 4\n\"\"\n9335.0 2965.0 466 -79 200 0 -2809 102383 1.6870050226630218 0 1 2\n\"Sims: 145k\"\n10225.0 4023.0 298 -215 0 0 2898 -95480 -1.640613297087025 0 1 1\n\"Average: 149k\"\n2:93 1:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (102301, -32070) at power 0\nPod 2 of player $0 moves towards (47410, -87152) at power 200\n",
+            "stdout": "102301 -32070 0\n47410 -87152 200\n",
+            "view": " 15\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (29001, 101012) at power 200\nPod 2 of player $1 moves towards (-27236, -88695) at power 0\n",
+            "stdout": "29001 101012 200 Sims: 140k\n-27236 -88695 0 Average: 148k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 16\n9372.0 3739.0 328 44 0 0 102301 -32070 -0.3665118741982433 0 1 3\n\"\"\n8635.0 4720.0 252 -151 200 0 47410 -87152 -1.1693789463432303 0 1 4\n\"\"\n9962.0 2857.0 569 -160 200 0 29001 101012 1.3728457573040425 0 1 2\n\"Sims: 140k\"\n10523.0 3808.0 253 -182 0 0 -27236 -88695 -1.9547725624460044 0 1 1\n\"Average: 148k\"\n2:92 1:92\n4 0.2621660355484401 2 9467 2996 0 9087 3700 347.3647443371489 528 -68\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (102730, -32097) at power 200\nPod 2 of player $0 moves towards (74240, -70751) at power 200\n",
+            "stdout": "102730 -32097 200\n74240 -70751 200\n",
+            "view": " 17\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-1633, 102182) at power 200\nPod 2 of player $1 moves towards (-53756, -72796) at power 200\n",
+            "stdout": "-1633 102182 200 Sims: 134k\n-53756 -72796 200 Average: 147k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 18\n9887.0 3711.0 437 -23 200 0 102730 -32097 -0.3665118741982433 0 1 3\n\"\"\n9018.0 4418.0 325 -256 200 0 74240 -70751 -0.8552196809842509 0 1 4\n\"\"\n10423.0 2698.0 292 -365 200 0 -1633 102182 1.6870050226630218 0 1 1\n\"Sims: 134k\"\n10733.0 3670.0 277 113 200 0 -53756 -72796 -2.268931827804984 0 1 2\n\"Average: 147k\"\n2:91 1:91\n5 0.5790596224362811 3 10595 3614 2 10278 2879 510.2244447260995 335 -148\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (87601, -59221) at power 200\nPod 2 of player $0 moves towards (94734, -47085) at power 200\n",
+            "stdout": "87601 -59221 200\n94734 -47085 200\n",
+            "view": " 19\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-1172, 102023) at power 200\nPod 2 of player $1 moves towards (-74072, -49321) at power 200\n",
+            "stdout": "-1172 102023 200 Sims: 141k\n-74072 -49321 200 Average: 146k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 20\n10104.0 3518.0 371 -362 200 0 87601 -59221 -0.6806711395572227 0 1 3\n\"\"\n9447.0 4118.0 137 -55 200 0 94734 -47085 -0.5410604156252716 0 1 4\n\"\"\n10692.0 2532.0 228 -141 200 0 -1172 102023 1.6870083101669782 0 1 1\n\"Sims: 141k\"\n11283.0 3663.0 507 -7 200 0 -74072 -49321 -2.5830910931639632 0 1 2\n\"Average: 146k\"\n2:90 1:90\n7 0.09571418406004323 3 10743 3671 0 9944 3697 489.86401667145134 350 -71\n8 0.7994003573651587 1 9415 4131 0 10016 3603 444.9732664491162 300 -246\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (103462, -32318) at power 200\nPod 2 of player $0 moves towards (95163, -47385) at power 0\n",
+            "stdout": "103462 -32318 200\n95163 -47385 0\n",
+            "view": " 21\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-31029, 93413) at power 200\nPod 2 of player $1 moves towards (-73522, -49328) at power 200\n",
+            "stdout": "-31029 93413 200 Sims: 146k\n-73522 -49328 200 Average: 146k\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 22\n10545.0 3321.0 245 95 200 0 103462 -32318 -0.3665118741982434 0 1 3\n\"\"\n9584.0 4063.0 116 -46 0 0 95163 -47385 -0.5410489066760169 0 1 4\n\"\"\n10953.0 2336.0 351 -429 200 0 -31029 93413 2.0011675755259573 0 2 1\n\"Sims: 146k\"\n11620.0 3550.0 286 -96 200 0 -73522 -49328 -2.5830961583795347 0 1 2\n\"Average: 146k\"\n2:89 1:100\n9 0.5661924445060097 2 10774 2555 0 10420 3272 608.2966872042077 351 -196\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (88259, -59611) at power 200\nPod 2 of player $0 moves towards (75189, -71408) at power 0\n",
+            "stdout": "88259 -59611 200\n75189 -71408 0\n",
+            "view": " 23\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-56810, 75876) at power 200\nPod 2 of player $1 moves towards (-85410, -20641) at power 200\n",
+            "stdout": "-56810 75876 200 Sims: 149k\n-85410 -20641 200 Average: 146k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 24\n10921.0 3286.0 69 -68 200 0 88259 -59611 -0.6806711395572227 0 2 1\n\"\"\n9700.0 4017.0 98 -39 0 0 75189 -71408 -0.8552081720349962 0 1 4\n\"\"\n11168.0 2054.0 183 -239 200 0 -56810 75876 2.3153268408849366 0 2 2\n\"Sims: 149k\"\n11736.0 3409.0 348 -80 200 0 -85410 -20641 -2.897255423738514 0 1 3\n\"Average: 146k\"\n1:100 2:99\n10 0.9228994960749525 3 11705 3417 0 10915 3293 322.37590440270003 246 -88\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (104279, -32550) at power 0\nPod 2 of player $0 moves towards (48773, -88033) at power 0\n",
+            "stdout": "104279 -32550 0\n48773 -88033 0\n",
+            "view": " 25\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-76004, 51055) at power 200\nPod 2 of player $1 moves towards (-88020, 10385) at power 0\n",
+            "stdout": "-76004 51055 200 Sims: 175k\n-88020 10385 0 Average: 148k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 26\n10990.0 3218.0 58 -57 0 0 104279 -32550 -0.3665118741982434 0 2 1\n\"\"\n9798.0 3978.0 83 -33 0 0 48773 -88033 -1.1693674373939755 0 1 4\n\"\"\n11177.0 1913.0 7 -119 200 0 -76004 51055 2.629486106243916 0 2 2\n\"Sims: 175k\"\n12084.0 3329.0 295 -68 0 0 -88020 10385 3.071775683297665 0 1 3\n\"Average: 148k\"\n1:99 2:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (110852, -2015) at power 0\nPod 2 of player $0 moves towards (18513, -95641) at power 200\n",
+            "stdout": "110852 -2015 0\n18513 -95641 200\n",
+            "view": " 27\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-86870, 21579) at power 200\nPod 2 of player $1 moves towards (-80634, 40790) at power 200\n",
+            "stdout": "-86870 21579 200 Sims: 180k\n-80634 40790 200 Average: 151k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 28\n11048.0 3161.0 49 -48 0 0 110852 -2015 -0.052354428436624745 0 2 1\n\"\"\n9898.0 3746.0 85 -197 200 0 18513 -95641 -1.4835267027529548 0 1 4\n\"\"\n10988.0 1833.0 -160 -67 200 0 -86870 21579 2.943642084098939 0 2 2\n\"Sims: 180k\"\n12194.0 3336.0 93 5 200 0 -80634 40790 2.7576164179386855 0 1 3\n\"Average: 151k\"\n1:98 2:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (107640, 29042) at power 200\nPod 2 of player $0 moves towards (-12597, -93690) at power 200\n",
+            "stdout": "107640 29042 200\n-12597 -93690 200\n",
+            "view": " 29\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-88337, -9762) at power 200\nPod 2 of player $1 moves towards (-87562, 10312) at power 200\n",
+            "stdout": "-88337 -9762 200 Sims: 186k\n-87562 10312 200 Average: 153k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 30\n11290.0 3165.0 205 3 200 0 107640 29042 0.26179215879798995 0 2 1\n\"\"\n9938.0 3354.0 34 -333 200 0 -12597 -93690 -1.7976859681119342 0 1 4\n\"\"\n10629.0 1743.0 -304 -76 200 0 -88337 -9762 3.2578013494579183 0 2 2\n\"Sims: 186k\"\n12087.0 3355.0 -90 16 200 0 -87562 10312 3.071775683297665 0 1 3\n\"Average: 153k\"\n1:97 2:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (95157, 57628) at power 200\nPod 2 of player $0 moves towards (-41565, -82362) at power 200\n",
+            "stdout": "95157 57628 200\n-41565 -82362 200\n",
+            "view": " 31\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-88696, -9852) at power 200\nPod 2 of player $1 enabled its shield\n",
+            "stdout": "-88696 -9852 200 Sims: 224k\n-87669 10331 SHIELD Average: 157k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 32\n10862.0 3085.0 -393 -74 200 0 95157 57628 0.5759513850429654 0 2 1\n\"\"\n9869.0 2850.0 -58 -428 200 0 -41565 -82362 -2.1118452334709135 0 1 4\n\"\"\n10126.0 1644.0 -427 -84 200 0 -88696 -9852 -3.0253806702177117 0 2 2\n\"Sims: 224k\"\n12077.0 3390.0 -5 30 0 0 -87669 10331 3.071775683297665 1 1 3\n\"Average: 157k\"\n1:96 2:95\n11 0.04093158744755603 3 12083 3356 0 11305 3170 858.828872414185 141 64\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (73794, 80799) at power 200\nPod 2 of player $0 moves towards (-65602, -62755) at power 200\n",
+            "stdout": "73794 80799 200\n-65602 -62755 200\n",
+            "view": " 33\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 enabled its shield\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-87921 21310 SHIELD Sims: 266k\n-87679 10366 0 Average: 164k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 34\n10595.0 3166.0 -227 69 200 0 73794 80799 0.8901106504019447 0 2 1\n\"\"\n9649.0 2415.0 -243 282 200 0 -65602 -62755 -2.4260044988298928 0 1 4\n\"\"\n9700.0 1548.0 -356 -147 0 0 -87921 21310 -3.339539935576691 1 2 2\n\"Sims: 266k\"\n12072.0 3420.0 -4 25 0 0 -87679 10366 3.071775683297665 0 1 3\n\"Average: 164k\"\n1:95 2:94\n12 0.8606868044800405 2 9758 1572 1 9689 2369 895.1266814899972 -318 -322\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46431, 96524) at power 0\nPod 2 of player $0 moves towards (-41854, -83301) at power 0\n",
+            "stdout": "46431 96524 0\n-41854 -83301 0\n",
+            "view": " 35\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-77472 50549 0 Sims: 297k\n-87684 10396 0 Average: 171k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 36\n10368.0 3235.0 -192 58 0 0 46431 96524 1.204269915760924 0 2 1\n\"\"\n9406.0 2697.0 -206 239 0 0 -41854 -83301 -2.1118452334709135 0 1 4\n\"\"\n9344.0 1401.0 -302 -124 0 0 -77472 50549 2.6294929913437857 0 2 2\n\"Sims: 297k\"\n12068.0 3445.0 -3 21 0 0 -87684 10396 3.071775683297665 0 1 3\n\"Average: 171k\"\n1:94 2:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (15601, 103097) at power 200\nPod 2 of player $0 moves towards (-66065, -62908) at power 0\n",
+            "stdout": "15601 103097 200\n-66065 -62908 0\n",
+            "view": " 37\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-58419 74941 0 Sims: 264k\n-87688 10421 0 Average: 176k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 38\n10186.0 3493.0 -154 219 200 0 15601 103097 1.5184291811199033 0 2 1\n\"\"\n9200.0 2936.0 -175 203 0 0 -66065 -62908 -2.4260044988298928 0 1 4\n\"\"\n9042.0 1277.0 -256 -105 0 0 -58419 74941 2.3153337259848064 0 2 2\n\"Sims: 264k\"\n12065.0 3466.0 -2 17 0 0 -87688 10421 3.071775683297665 0 1 3\n\"Average: 176k\"\n1:93 2:92\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-15695, 100085) at power 200\nPod 2 of player $0 moves towards (-42303, -82780) at power 0\n",
+            "stdout": "-15695 100085 200\n-42303 -82780 0\n",
+            "view": " 39\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (-84965, -20725) at power 200\n",
+            "stdout": "-32679 92158 0 Sims: 249k\n-84965 -20725 200 Average: 180k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 40\n9980.0 3905.0 -174 350 200 0 -15695 100085 1.8325884464788826 0 2 1\n\"\"\n9025.0 3139.0 -148 172 0 0 -42303 -82780 -2.1118452334709135 0 1 4\n\"\"\n8786.0 1172.0 -217 -89 0 0 -32679 92158 2.001174460625827 0 2 2\n\"Sims: 249k\"\n11869.0 3435.0 -166 -26 200 0 -84965 -20725 -2.897259134451559 0 1 3\n\"Average: 180k\"\n1:92 2:91\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-44483, 87772) at power 200\nPod 2 of player $0 moves towards (-42478, -82577) at power 200\n",
+            "stdout": "-44483 87772 200\n-42478 -82577 200\n",
+            "view": " 41\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-32935, 92053) at power 200\nPod 2 of player $1 moves towards (-87887, 10411) at power 200\n",
+            "stdout": "-32935 92053 200 Sims: 227k\n-87887 10411 200 Average: 182k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 42\n9697.0 4423.0 -240 440 200 0 -44483 87772 2.146747711837862 0 2 1\n\"\"\n8774.0 3140.0 -213 0 200 0 -42478 -82577 -2.1118452334709135 0 1 4\n\"\"\n8486.0 1265.0 -255 78 200 0 -32935 92053 2.001169573307018 0 2 2\n\"Sims: 227k\"\n11503.0 3423.0 -310 -10 200 0 -87887 10411 3.071775683297665 0 1 3\n\"Average: 182k\"\n1:91 2:90\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-68017, 67355) at power 200\nPod 2 of player $0 moves towards (-66697, -62465) at power 0\n",
+            "stdout": "-68017 67355 200\n-66697 -62465 0\n",
+            "view": " 43\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-33235, 92146) at power 200\nPod 2 of player $1 moves towards (-81215, 40884) at power 0\n",
+            "stdout": "-33235 92146 200 Sims: 217k\n-81215 40884 0 Average: 184k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 44\n9302.0 4989.0 -336 480 200 0 -68017 67355 2.4609069771968413 0 2 1\n\"\"\n8561.0 3140.0 -181 0 0 0 -66697 -62465 -2.4260044988298928 0 1 4\n\"\"\n8148.0 1525.0 -287 220 200 0 -33235 92146 2.001169573307018 0 2 3\n\"Sims: 217k\"\n11193.0 3413.0 -263 -8 0 0 -81215 40884 2.7576164179386855 0 2 2\n\"Average: 184k\"\n1:90 2:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-84056, 40825) at power 200\nPod 2 of player $0 moves towards (-83489, -35933) at power 200\n",
+            "stdout": "-84056 40825 200\n-83489 -35933 200\n",
+            "view": " 45\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-3447, 100850) at power 200\nPod 2 of player $1 moves towards (-65411, 67692) at power 200\n",
+            "stdout": "-3447 100850 200 Sims: 207k\n-65411 67692 200 Average: 185k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 46\n8779.0 5541.0 -444 468 200 0 -84056 40825 2.7750662425558206 0 2 1\n\"\"\n8196.0 3062.0 -310 -66 200 0 -83489 -35933 -2.740163764188872 0 1 4\n\"\"\n7838.0 1944.0 -263 355 200 0 -3447 100850 1.6870103079480385 0 2 3\n\"Sims: 207k\"\n10777.0 3534.0 -353 102 200 0 -65411 67692 2.443457152579706 0 2 2\n\"Average: 185k\"\n1:89 2:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-91083, 10774) at power 0\nPod 2 of player $0 moves towards (-67275, -62543) at power 200\n",
+            "stdout": "-91083 10774 0\n-67275 -62543 200\n",
+            "view": " 47\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (27504, 99991) at power 200\nPod 2 of player $1 moves towards (-42214, 88339) at power 200\n",
+            "stdout": "27504 99991 200 Sims: 212k\n-42214 88339 200 Average: 186k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 48\n8335.0 6009.0 -377 397 0 0 -91083 10774 3.0892255079148 0 2 1\n\"\"\n7861.0 3256.0 -187 467 200 0 -67275 -62543 -2.426014749976144 0 1 4\n\"\"\n7488.0 2104.0 -394 -166 200 0 27504 99991 1.3728510425890592 0 2 3\n\"Sims: 212k\"\n10318.0 3806.0 -390 230 200 0 -42214 88339 2.129297887220727 0 2 2\n\"Average: 186k\"\n1:88 2:98\n13 0.47632054264973306 2 7731 2206 1 7976 2968 785.0152540525862 -342 177\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-88257, -19872) at power 0\nPod 2 of player $0 moves towards (-84189, -35817) at power 0\n",
+            "stdout": "-88257 -19872 0\n-84189 -35817 0\n",
+            "view": " 49\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (56489, 89276) at power 200\nPod 2 of player $1 moves towards (-66286, 68085) at power 200\n",
+            "stdout": "56489 89276 200 Sims: 221k\n-66286 68085 200 Average: 187k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 50\n7958.0 6406.0 -320 337 0 0 -88257 -19872 3.403384773273779 0 2 1\n\"\"\n7674.0 3723.0 -158 396 0 0 -84189 -35817 -2.740166068011792 0 1 4\n\"\"\n7192.0 2112.0 -251 7 200 0 56489 89276 1.058696664548889 0 2 3\n\"Sims: 221k\"\n9775.0 4165.0 -461 304 200 0 -66286 68085 2.4434562657151386 0 2 2\n\"Average: 187k\"\n1:87 2:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-75909, -48057) at power 200\nPod 2 of player $0 moves towards (-91945, -4992) at power 0\n",
+            "stdout": "-75909 -48057 200\n-91945 -4992 0\n",
+            "view": " 51\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (26858, 100159) at power 200\nPod 2 of player $1 moves towards (-66829, 68444) at power 200\n",
+            "stdout": "26858 100159 200 Sims: 196k\n-66829 68444 200 Average: 187k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 52\n7470.0 6634.0 -414 193 200 0 -75909 -48057 3.7175440386327585 0 0 1\n\"\"\n7516.0 4119.0 -134 336 0 0 -91945 -4992 -3.0543253333707714 0 1 4\n\"\"\n6980.0 2315.0 -179 172 200 0 26858 100159 1.3728457573040425 0 2 3\n\"Sims: 196k\"\n9161.0 4598.0 -522 367 200 0 -66829 68444 2.4434562657151386 0 2 2\n\"Average: 187k\"\n1:100 2:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-55462, -71080) at power 200\nPod 2 of player $0 moves towards (-84534, -34954) at power 0\n",
+            "stdout": "-55462 -71080 200\n-84534 -34954 0\n",
+            "view": " 53\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-4615, 101640) at power 200\nPod 2 of player $1 moves towards (-43830, 89403) at power 0\n",
+            "stdout": "-4615 101640 200 Sims: 193k\n-43830 89403 0 Average: 188k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 54\n6930.0 6672.0 -458 31 200 0 -55462 -71080 4.031703303991738 0 0 1\n\"\"\n7382.0 4455.0 -113 285 0 0 -84534 -34954 -2.740166068011792 0 1 4\n\"\"\n6778.0 2686.0 -171 315 200 0 -4615 101640 1.6870050226630218 0 2 3\n\"Sims: 193k\"\n8639.0 4965.0 -443 311 0 0 -43830 89403 2.1292970003561593 0 2 2\n\"Average: 188k\"\n1:99 2:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-28906, -86686) at power 200\nPod 2 of player $0 moves towards (-92237, -4260) at power 0\n",
+            "stdout": "-28906 -86686 200\n-92237 -4260 0\n",
+            "view": " 55\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (26444, 100733) at power 0\nPod 2 of player $1 moves towards (-15552, 101995) at power 200\n",
+            "stdout": "26444 100733 0 Sims: 200k\n-15552 101995 200 Average: 188k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 56\n6400.0 6516.0 -450 -132 200 0 -28906 -86686 4.345862569350717 0 0 1\n\"\"\n7269.0 4740.0 -96 242 0 0 -92237 -4260 -3.0543253333707714 0 1 4\n\"\"\n6607.0 3001.0 -145 267 0 0 26444 100733 1.3728457573040425 0 2 3\n\"Sims: 200k\"\n8148.0 5470.0 -417 429 200 0 -15552 101995 1.81513773499718 0 2 2\n\"Average: 188k\"\n1:98 2:94\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (1166, -93346) at power 200\nPod 2 of player $0 moves towards (-90167, 27235) at power 0\n",
+            "stdout": "1166 -93346 200\n-90167 27235 0\n",
+            "view": " 57\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (26273, 101048) at power 200\nPod 2 of player $1 moves towards (-44843, 90275) at power 0\n",
+            "stdout": "26273 101048 200 Sims: 208k\n-44843 90275 0 Average: 189k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 58\n5940.0 6184.0 -391 -281 200 0 1166 -93346 4.660021834709696 0 0 1\n\"\"\n7173.0 4982.0 -81 205 0 0 -90167 27235 -3.3684845987297507 0 1 4\n\"\"\n6501.0 3464.0 -89 393 200 0 26273 101048 1.3728457573040425 0 2 3\n\"Sims: 208k\"\n7731.0 5899.0 -354 364 0 0 -44843 90275 2.129292822005155 0 2 2\n\"Average: 189k\"\n1:97 2:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (31821, -90408) at power 200\nPod 2 of player $0 moves towards (-78543, 56485) at power 0\n",
+            "stdout": "31821 -90408 200\n-78543 56485 0\n",
+            "view": " 59\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (55502, 90636) at power 0\nPod 2 of player $1 moves towards (-68873, 70178) at power 0\n",
+            "stdout": "55502 90636 0 Sims: 224k\n-68873 70178 0 Average: 190k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 60\n5601.0 5710.0 -288 -403 200 0 31821 -90408 4.974181100068676 0 1 1\n\"\"\n7092.0 5187.0 -68 174 0 0 -78543 56485 2.600543746913776 0 1 4\n\"\"\n6412.0 3857.0 -75 334 0 0 55502 90636 1.058696664548889 0 2 3\n\"Sims: 224k\"\n7377.0 6263.0 -300 309 0 0 -68873 70178 2.4434520873641343 0 2 2\n\"Average: 190k\"\n1:100 2:92\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (60064, -78157) at power 200\nPod 2 of player $0 moves towards (-58513, 80658) at power 200\n",
+            "stdout": "60064 -78157 200\n-58513 80658 200\n",
+            "view": " 61\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (79952, 71620) at power 0\nPod 2 of player $1 moves towards (-85341, 43724) at power 0\n",
+            "stdout": "79952 71620 0 Sims: 227k\n-85341 43724 0 Average: 191k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 62\n5422.0 5139.0 -152 -485 200 0 60064 -78157 5.288340365427655 0 1 1\n\"\"\n6893.0 5512.0 -169 276 200 0 -58513 80658 2.286384481554797 0 1 4\n\"\"\n6337.0 4191.0 -63 283 0 0 79952 71620 0.7445373991899098 0 2 3\n\"Sims: 227k\"\n7077.0 6572.0 -255 262 0 0 -85341 43724 2.7576113527231136 0 0 2\n\"Average: 191k\"\n1:99 2:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (83136, -57793) at power 200\nPod 2 of player $0 moves towards (-58712, 80982) at power 0\n",
+            "stdout": "83136 -57793 200\n-58712 80982 0\n",
+            "view": " 63\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (97218, 45912) at power 200\nPod 2 of player $1 moves towards (-92679, 13548) at power 0\n",
+            "stdout": "97218 45912 200 Sims: 248k\n-92679 13548 0 Average: 193k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 64\n5425.0 4528.0 2 -519 200 0 83136 -57793 5.602499630786634 0 1 1\n\"\"\n6724.0 5788.0 -143 234 0 0 -58712 80982 2.286380791031626 0 1 4\n\"\"\n6456.0 4557.0 100 311 200 0 97218 45912 0.4303781338309305 0 2 3\n\"Sims: 248k\"\n6822.0 6834.0 -216 222 0 0 -92679 13548 3.071770618082093 0 0 2\n\"Average: 193k\"\n1:98 2:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (98783, -31308) at power 200\nPod 2 of player $0 moves towards (-78992, 57291) at power 0\n",
+            "stdout": "98783 -31308 200\n-78992 57291 0\n",
+            "view": " 65\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (79996, 72320) at power 0\nPod 2 of player $1 moves towards (-90208, -17357) at power 0\n",
+            "stdout": "79996 72320 0 Sims: 237k\n-90208 -17357 0 Average: 194k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 66\n5614.0 3937.0 160 -502 200 0 98783 -31308 5.916658896145614 0 1 1\n\"\"\n6581.0 6022.0 -121 198 0 0 -78992 57291 2.600540056390605 0 1 4\n\"\"\n6556.0 4868.0 85 264 0 0 79996 72320 0.7445371448413806 0 2 3\n\"Sims: 237k\"\n6606.0 7056.0 -183 188 0 0 -90208 -17357 -2.897259134451559 0 0 2\n\"Average: 194k\"\n1:97 2:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (105476, -1296) at power 200\nPod 2 of player $0 moves towards (-79135, 57525) at power 0\n",
+            "stdout": "105476 -1296 200\n-79135 57525 0\n",
+            "view": " 67\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (97437, 46589) at power 0\nPod 2 of player $1 moves towards (-78199, -45935) at power 0\n",
+            "stdout": "97437 46589 0 Sims: 221k\n-78199 -45935 0 Average: 195k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 68\n5974.0 3425.0 305 -435 200 0 105476 -1296 6.230818161504593 0 1 1\n\"\"\n6460.0 6220.0 -102 168 0 0 -79135 57525 2.600543746913776 0 1 4\n\"\"\n6641.0 5132.0 72 224 0 0 97437 46589 0.43037787948240125 0 2 3\n\"Sims: 221k\"\n6423.0 7244.0 -155 159 0 0 -78199 -45935 -2.5830998690925795 0 0 2\n\"Average: 195k\"\n1:96 2:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (102566, 29306) at power 200\nPod 2 of player $0 moves towards (-79256, 57723) at power 0\n",
+            "stdout": "102566 29306 200\n-79256 57723 0\n",
+            "view": " 69\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (80181, 72895) at power 0\nPod 2 of player $1 moves towards (-57856, -69360) at power 200\n",
+            "stdout": "80181 72895 0 Sims: 235k\n-57856 -69360 200 Average: 196k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 70\n6472.0 3042.0 423 -325 200 0 102566 29306 6.544977426863572 0 1 1\n\"\"\n6358.0 6388.0 -86 142 0 0 -79256 57723 2.600543746913776 0 1 4\n\"\"\n6713.0 5356.0 61 190 0 0 80181 72895 0.7445371448413806 0 2 3\n\"Sims: 235k\"\n6139.0 7250.0 -241 4 200 0 -57856 -69360 -2.2689406037336 0 0 2\n\"Average: 196k\"\n1:95 2:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (90339, 57505) at power 200\nPod 2 of player $0 moves towards (-91078, 28883) at power 0\n",
+            "stdout": "90339 57505 200\n-91078 28883 0\n",
+            "view": " 71\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (55714, 92528) at power 0\nPod 2 of player $1 enabled its shield\n",
+            "stdout": "55714 92528 0 Sims: 145k\n-31322 -85468 SHIELD Average: 195k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 72\n7063.0 2826.0 502 -183 200 0 90339 57505 6.859136692222552 0 1 1\n\"\"\n6272.0 6530.0 -73 120 0 0 -91078 28883 2.914698614055158 0 1 4\n\"\"\n6774.0 5546.0 51 161 0 0 55714 92528 1.0586964102003598 0 2 3\n\"Sims: 145k\"\n5898.0 7254.0 -204 3 0 0 -31322 -85468 -1.9547813383746209 1 0 2\n\"Average: 195k\"\n1:94 2:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (103655, 28707) at power 200\nPod 2 of player $0 moves towards (-79444, 58033) at power 200\n",
+            "stdout": "103655 28707 200\n-79444 58033 200\n",
+            "view": " 73\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (26440, 103593) at power 200\nPod 2 of player $1 enabled its shield\n",
+            "stdout": "26440 103593 200 Sims: 233k\n-1078 -92502 SHIELD Average: 196k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 74\n7758.0 2695.0 590 -111 200 0 103655 28707 0.26179215879798995 0 1 1\n\"\"\n6195.0 6433.0 -54 -102 200 0 -79444 58033 2.600543746913776 0 1 4\n\"\"\n6864.0 5903.0 76 303 200 0 26440 103593 1.3728457573040425 0 2 3\n\"Sims: 233k\"\n5677.0 7289.0 -188 31 0 0 -1078 -92502 -1.6406220730156416 1 0 2\n\"Average: 196k\"\n1:93 2:94\n14 0.06964940232789273 3 5884 7254 1 6255 6546 388.45963573773673 -224 113\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (104350, 28576) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "104350 28576 200\n-91241 28928 SHIELD\n",
+            "view": " 75\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 enabled its shield\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-4731 105228 SHIELD Sims: 245k\n29868 -89741 0 Average: 197k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 76\n8541.0 2636.0 665 -50 200 0 104350 28576 0.26179215879798995 0 1 1\n\"\"\n6133.0 6334.0 -64 -79 0 0 -91241 28928 2.914698614055158 1 1 4\n\"\"\n6948.0 6203.0 82 250 0 0 -4731 105228 1.6870050226630218 1 2 3\n\"Sims: 245k\"\n5489.0 7320.0 -159 26 0 0 29868 -89741 -1.3264628076566622 0 0 2\n\"Average: 197k\"\n1:92 2:93\n15 0.6103932976054443 2 6910 6088 1 6162 6371 227.77870394209273 11 101\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (92408, 57099) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "92408 57099 200\n-91303 28829 0\n",
+            "view": " 77\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-34773 97084 0 Sims: 239k\n58480 -77485 0 Average: 198k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 78\n9374.0 2695.0 707 50 200 0 92408 57099 0.5759513850429654 0 1 1\n\"\"\n6069.0 6255.0 -54 -67 0 0 -91303 28829 2.914698614055158 0 1 4\n\"\"\n7030.0 6453.0 69 212 0 0 -34773 97084 2.001164288022001 0 2 3\n\"Sims: 239k\"\n5330.0 7346.0 -135 22 0 0 58480 -77485 -1.012303542297683 0 0 2\n\"Average: 198k\"\n1:91 2:92\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (72306, 80409) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "72306 80409 200\n-79647 57758 0\n",
+            "view": " 79\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-60733 79993 0 Sims: 221k\n58321 -77459 0 Average: 199k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 80\n10207.0 2900.0 707 174 200 0 72306 80409 0.8901106504019447 0 1 1\n\"\"\n6015.0 6188.0 -45 -56 0 0 -79647 57758 2.600543746913776 0 1 4\n\"\"\n7099.0 6665.0 58 180 0 0 -60733 79993 2.3153235533809804 0 0 2\n\"Sims: 221k\"\n5195.0 7368.0 -114 18 0 0 58321 -77459 -1.012299831584638 0 0 3\n\"Average: 199k\"\n1:90 2:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46043, 96258) at power 0\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46043 96258 0\n-59590 81659 0\n",
+            "view": " 81\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (29386, -89662) at power 200\n",
+            "stdout": "-80073 55666 0 Sims: 211k\n29386 -89662 200 Average: 199k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 82\n10914.0 3074.0 600 147 0 0 46043 96258 1.204269915760924 0 2 1\n\"\"\n5970.0 6132.0 -38 -47 0 0 -59590 81659 2.286384481554797 0 1 4\n\"\"\n7157.0 6845.0 49 153 0 0 -80073 55666 2.6294828187399597 0 0 2\n\"Sims: 211k\"\n5129.0 7192.0 -55 -149 200 0 29386 -89662 -1.3264590969436174 0 0 3\n\"Average: 199k\"\n1:100 2:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (16147, 102936) at power 0\nPod 2 of player $0 moves towards (-33103, 98182) at power 200\n",
+            "stdout": "16147 102936 0\n-33103 98182 200\n",
+            "view": " 83\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-90890, 26511) at power 0\nPod 2 of player $1 moves towards (58120, -77613) at power 200\n",
+            "stdout": "-90890 26511 0 Sims: 201k\n58120 -77613 200 Average: 199k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 84\n11514.0 3221.0 510 124 0 0 16147 102936 1.5184291811199033 0 2 1\n\"\"\n5854.0 6269.0 -98 116 200 0 -33103 98182 1.9722252161958176 0 1 4\n\"\"\n7206.0 6998.0 41 130 0 0 -90890 26511 2.943642084098939 0 0 3\n\"Sims: 201k\"\n5180.0 6873.0 43 -270 200 0 58120 -77613 -1.012299831584638 0 0 2\n\"Average: 199k\"\n1:99 2:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-14367, 99813) at power 200\nPod 2 of player $0 moves towards (-59751, 81739) at power 200\n",
+            "stdout": "-14367 99813 200\n-59751 81739 200\n",
+            "view": " 85\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-92119, -4597) at power 0\nPod 2 of player $1 enabled its shield\n",
+            "stdout": "-92119 -4597 0 Sims: 204k\n81784 -57406 SHIELD Average: 199k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 86\n11972.0 3538.0 389 269 200 0 -14367 99813 1.8325884464788826 0 2 1\n\"\"\n6255.0 6028.0 465 -306 200 0 -59751 81739 2.286380791031626 0 1 4\n\"\"\n7247.0 7128.0 34 110 0 0 -92119 -4597 3.2578013494579183 0 0 3\n\"Sims: 204k\"\n5160.0 6654.0 -29 -176 0 0 81784 -57406 -0.6981405662256588 1 0 2\n\"Average: 199k\"\n1:98 2:97\n16 0.18910844990260015 3 5188 6822 1 5811 6319 998.2946382555142 -93 -2\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-42491, 87405) at power 200\nPod 2 of player $0 moves towards (-79461, 57531) at power 200\n",
+            "stdout": "-42491 87405 200\n-79461 57531 200\n",
+            "view": " 87\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-83634, -34593) at power 0\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-83634 -34593 0 Sims: 214k\n81764 -57625 0 Average: 200k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 88\n12252.0 3975.0 238 371 200 0 -42491 87405 2.146747711837862 0 2 1\n\"\"\n6549.0 5825.0 249 -172 200 0 -79461 57531 2.600540056390605 0 1 4\n\"\"\n7281.0 7238.0 28 93 0 0 -83634 -34593 3.5719606148168976 0 0 3\n\"Sims: 214k\"\n5131.0 6478.0 -24 -149 0 0 81764 -57625 -0.6981363878746547 0 0 2\n\"Average: 200k\"\n1:97 2:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-65462, 66907) at power 200\nPod 2 of player $0 moves towards (-90887, 28320) at power 200\n",
+            "stdout": "-65462 66907 200\n-90887 28320 200\n",
+            "view": " 89\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-66259, -60525) at power 200\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-66259 -60525 200 Sims: 206k\n81735 -57801 0 Average: 200k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 90\n12335.0 4472.0 70 422 200 0 -65462 66907 2.4609069771968413 0 2 1\n\"\"\n6603.0 5698.0 46 -107 200 0 -90887 28320 2.914698614055158 0 1 4\n\"\"\n7162.0 7195.0 -101 -36 200 0 -66259 -60525 3.886119880175877 0 0 3\n\"Sims: 206k\"\n5107.0 6329.0 -20 -126 0 0 81735 -57801 -0.6981363878746547 0 0 2\n\"Average: 200k\"\n1:96 2:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-81023, 40308) at power 200\nPod 2 of player $0 moves towards (-90833, 28193) at power 200\n",
+            "stdout": "-81023 40308 200\n-90833 28193 200\n",
+            "view": " 91\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-41839, -79977) at power 200\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-41839 -79977 200 Sims: 193k\n97825 -31132 0 Average: 200k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 92\n12218.0 4966.0 -99 419 200 0 -81023 40308 2.7750662425558206 0 2 1\n\"\"\n6454.0 5636.0 -126 -52 200 0 -90833 28193 2.914698614055158 0 1 4\n\"\"\n6963.0 6985.0 -169 -178 200 0 -41839 -79977 4.200279145534856 0 0 3\n\"Sims: 193k\"\n5087.0 6203.0 -17 -107 0 0 97825 -31132 -0.3839771225156754 0 0 2\n\"Average: 200k\"\n1:95 2:94\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-81140, 40802) at power 200\nPod 2 of player $0 moves towards (-79262, 57139) at power 200\n",
+            "stdout": "-81140 40802 200\n-79262 57139 200\n",
+            "view": " 93\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-42038, -80187) at power 200\nPod 2 of player $1 moves towards (104843, -773) at power 0\n",
+            "stdout": "-42038 -80187 200 Sims: 202k\n104843 -773 0 Average: 200k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 94\n11932.0 5457.0 -242 417 200 0 -81140 40802 2.77508077939155 0 2 1\n\"\"\n6157.0 5687.0 -252 43 200 0 -79262 57139 2.600543746913776 0 1 4\n\"\"\n6696.0 6633.0 -226 -299 200 0 -42038 -80187 -2.082895989040904 0 0 3\n\"Sims: 202k\"\n5070.0 6096.0 -14 -90 0 0 104843 -773 -0.06981785715669608 0 0 2\n\"Average: 200k\"\n1:94 2:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-87930, 10690) at power 200\nPod 2 of player $0 moves towards (-59448, 81158) at power 200\n",
+            "stdout": "-87930 10690 200\n-59448 81158 200\n",
+            "view": " 95\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-12970, -91414) at power 0\nPod 2 of player $1 moves towards (104826, -880) at power 200\n",
+            "stdout": "-12970 -91414 0 Sims: 187k\n104826 -880 200 Average: 199k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 96\n11490.0 5884.0 -375 363 200 0 -87930 10690 3.0892382251531685 0 2 1\n\"\"\n5960.0 5717.0 -108 -328 200 0 -59448 81158 2.286384481554797 0 1 4\n\"\"\n6543.0 6417.0 102 78 0 0 -12970 -91414 -1.7687468962857509 0 0 2\n\"Sims: 187k\"\n4996.0 6074.0 -354 72 200 0 104826 -880 -0.06981697029212845 0 0 3\n\"Average: 199k\"\n1:93 2:92\n17 0.5691307473461865 3 5176 6037 1 5939 5797 631.8166201016817 -99 45\n18 0.788766618834294 2 6518 6397 1 5987 5798 522.94831708104 -3 -147\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-88372, 11117) at power 200\nPod 2 of player $0 moves towards (-33113, 97767) at power 200\n",
+            "stdout": "-88372 11117 200\n-33113 97767 200\n",
+            "view": " 97\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-42458, -80755) at power 200\nPod 2 of player $1 moves towards (102026, 30265) at power 200\n",
+            "stdout": "-42458 -80755 200 Sims: 190k\n102026 30265 200 Average: 199k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 98\n10915.0 6257.0 -488 317 200 0 -88372 11117 3.0892382251531685 0 2 1\n\"\"\n5774.0 5573.0 -158 -122 200 0 -33113 97767 1.9722252161958176 0 1 4\n\"\"\n6547.0 6321.0 3 -81 200 0 -42458 -80755 -2.082895989040904 0 0 2\n\"Sims: 190k\"\n4836.0 6194.0 -135 102 200 0 102026 30265 0.24433351913823426 0 0 3\n\"Average: 199k\"\n1:92 2:91\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-85677, -19624) at power 200\nPod 2 of player $0 moves towards (-2941, 105192) at power 200\n",
+            "stdout": "-85677 -19624 200\n-2941 105192 200\n",
+            "view": " 99\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-13119, -91726) at power 200\nPod 2 of player $1 moves towards (101866, 30385) at power 200\n",
+            "stdout": "-13119 -91726 200 Sims: 204k\n101866 30385 200 Average: 199k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 100\n10234.0 6522.0 -579 225 200 0 -85677 -19624 -2.8798004947918034 0 2 1\n\"\"\n5599.0 5650.0 -149 65 200 0 -2941 105192 1.6580659508368383 0 1 4\n\"\"\n6511.0 6044.0 -30 -235 200 0 -13119 -91726 -1.7687468962857509 0 0 2\n\"Sims: 204k\"\n4895.0 6344.0 50 127 200 0 101866 30385 0.24433351913823426 0 0 3\n\"Average: 199k\"\n1:91 2:90\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-73633, -47941) at power 200\nPod 2 of player $0 boosts towards (-33474, 97700)\n",
+            "stdout": "-73633 -47941 200\n-33474 97700 BOOST\n",
+            "view": " 101\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (18106, -93281) at power 0\nPod 2 of player $1 moves towards (104651, -632) at power 200\n",
+            "stdout": "18106 -93281 0 Sims: 218k\n104651 -632 200 Average: 200k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 102\n9487.0 6638.0 -634 98 200 0 -73633 -47941 -2.5656412685468277 0 2 1\n\"\"\n5658.0 5841.0 162 47 650 0 -33474 97700 1.9722229123728978 0 1 4\n\"\"\n6481.0 5809.0 -25 -199 0 0 18106 -93281 -1.4545876309267716 0 0 2\n\"Sims: 218k\"\n4682.0 6930.0 -292 612 200 0 104651 -632 -0.06981697029212845 0 0 3\n\"Average: 200k\"\n1:90 2:89\n19 0.22173845261437494 3 4950 6369 1 5510 5797 849.6235273400724 -77 388\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-74380, -47825) at power 200\nPod 2 of player $0 moves towards (-3057, 105460) at power 200\n",
+            "stdout": "-74380 -47825 200\n-3057 105460 200\n",
+            "view": " 103\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (48202, -85072) at power 200\nPod 2 of player $1 moves towards (104438, -46) at power 200\n",
+            "stdout": "48202 -85072 200 Sims: 232k\n104438 -46 200 Average: 200k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 104\n8685.0 6627.0 -681 -9 200 0 -74380 -47825 -2.5656412685468277 0 2 1\n\"\"\n5803.0 6087.0 122 209 200 0 -3057 105460 1.6580636470139185 0 1 4\n\"\"\n6539.0 5428.0 49 -323 200 0 48202 -85072 -1.1404283655677923 0 1 2\n\"Sims: 232k\"\n4590.0 7528.0 -78 508 200 0 104438 -46 -0.06981697029212845 0 0 3\n\"Average: 200k\"\n1:89 2:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-54247, -71087) at power 0\nPod 2 of player $0 moves towards (-2912, 105706) at power 0\n",
+            "stdout": "-54247 -71087 0\n-2912 105706 0\n",
+            "view": " 105\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (74302, -68112) at power 200\nPod 2 of player $1 moves towards (97308, -29933) at power 0\n",
+            "stdout": "74302 -68112 200 Sims: 229k\n97308 -29933 0 Average: 201k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 106\n8004.0 6618.0 -578 -7 0 0 -54247 -71087 -2.2514820031878484 0 0 1\n\"\"\n5925.0 6296.0 103 177 0 0 -2912 105706 1.658057477938002 0 1 4\n\"\"\n6724.0 4958.0 156 -399 200 0 74302 -68112 -0.826269100208813 0 1 2\n\"Sims: 229k\"\n4512.0 8036.0 -66 431 0 0 97308 -29933 -0.3839762356511078 0 0 3\n\"Average: 201k\"\n1:100 2:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-27832, -86740) at power 200\nPod 2 of player $0 moves towards (28420, 103733) at power 0\n",
+            "stdout": "-27832 -86740 200\n28420 103733 0\n",
+            "view": " 107\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (93896, -44043) at power 200\nPod 2 of player $1 moves towards (81116, -56243) at power 200\n",
+            "stdout": "93896 -44043 200 Sims: 234k\n81116 -56243 200 Average: 201k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 108\n7354.0 6424.0 -552 -164 200 0 -27832 -86740 -1.937322737828869 0 0 1\n\"\"\n6028.0 6473.0 87 150 0 0 28420 103733 1.343904536783531 0 1 4\n\"\"\n7054.0 4461.0 280 -422 200 0 93896 -44043 -0.5121098348498336 0 1 2\n\"Sims: 234k\"\n4599.0 8338.0 74 257 200 0 81116 -56243 -0.6981355010100871 0 0 3\n\"Average: 201k\"\n1:99 2:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (2120, -93438) at power 200\nPod 2 of player $0 moves towards (57531, 92189) at power 0\n",
+            "stdout": "2120 -93438 200\n57531 92189 0\n",
+            "view": " 109\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (105101, -15205) at power 200\nPod 2 of player $1 moves towards (81203, -55941) at power 200\n",
+            "stdout": "105101 -15205 200 Sims: 255k\n81203 -55941 200 Average: 202k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 110\n6792.0 6060.0 -478 -309 200 0 2120 -93438 -1.6231634724698898 0 0 1\n\"\"\n6115.0 6623.0 73 127 0 0 57531 92189 1.0297474201188797 0 1 4\n\"\"\n7530.0 4000.0 404 -392 200 0 105101 -15205 -0.19795056949085432 0 1 2\n\"Sims: 255k\"\n4826.0 8466.0 193 109 200 0 81203 -55941 -0.6981363878746547 0 0 3\n\"Average: 202k\"\n1:98 2:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (32673, -90532) at power 200\nPod 2 of player $0 moves towards (81585, 72228) at power 0\n",
+            "stdout": "32673 -90532 200\n81585 72228 0\n",
+            "view": " 111\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (106855, 15595) at power 0\nPod 2 of player $1 moves towards (97544, -28995) at power 200\n",
+            "stdout": "106855 15595 0 Sims: 233k\n97544 -28995 200 Average: 203k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 112\n6366.0 5558.0 -362 -426 200 0 32673 -90532 -1.3090042071109105 0 1 1\n\"\"\n6188.0 6750.0 62 107 0 0 81585 72228 0.7155881547599003 0 1 4\n\"\"\n7934.0 3608.0 343 -333 0 0 106855 15595 0.11620869586812499 0 1 2\n\"Sims: 233k\"\n5204.0 8500.0 321 28 200 0 97544 -28995 -0.3839771225156754 0 0 3\n\"Average: 203k\"\n1:100 2:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (60829, -78309) at power 200\nPod 2 of player $0 moves towards (98238, 45823) at power 0\n",
+            "stdout": "60829 -78309 200\n98238 45823 0\n",
+            "view": " 113\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (98815, 45329) at power 0\nPod 2 of player $1 moves towards (81808, -55779) at power 200\n",
+            "stdout": "98815 45329 0 Sims: 239k\n81808 -55779 200 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 114\n6113.0 4964.0 -215 -504 200 0 60829 -78309 -0.9948449417519313 0 1 1\n\"\"\n6250.0 6857.0 52 90 0 0 98238 45823 0.40142888940092103 0 1 4\n\"\"\n8277.0 3275.0 291 -283 0 0 98815 45329 0.4303679612271043 0 1 2\n\"Sims: 239k\"\n5678.0 8399.0 403 -85 200 0 81808 -55779 -0.6981363878746547 0 0 3\n\"Average: 204k\"\n1:99 2:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (83827, -57968) at power 200\nPod 2 of player $0 moves towards (98300, 45930) at power 200\n",
+            "stdout": "83827 -57968 200\n98300 45930 200\n",
+            "view": " 115\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (107602, 14870) at power 200\nPod 2 of player $1 moves towards (98396, -29062) at power 200\n",
+            "stdout": "107602 14870 200 Sims: 221k\n98396 -29062 200 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 116\n6053.0 4334.0 -50 -535 200 0 83827 -57968 -0.680685676392952 0 1 1\n\"\"\n6486.0 7025.0 200 142 200 0 98300 45930 0.40142658557800104 0 1 4\n\"\"\n8767.0 3015.0 416 -220 200 0 107602 14870 0.11621198337208154 0 1 2\n\"Sims: 221k\"\n6266.0 8239.0 500 -135 200 0 98396 -29062 -0.3839771225156754 0 0 3\n\"Average: 204k\"\n1:98 2:94\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (99411, -31502) at power 200\nPod 2 of player $0 moves towards (98536, 46098) at power 200\n",
+            "stdout": "99411 -31502 200\n98536 46098 200\n",
+            "view": " 117\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (99648, 44736) at power 0\nPod 2 of player $1 moves towards (98984, -29222) at power 200\n",
+            "stdout": "99648 44736 0 Sims: 238k\n98984 -29222 200 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 118\n6190.0 3727.0 116 -515 200 0 99411 -31502 -0.36652641103397265 0 1 1\n\"\"\n6869.0 7233.0 295 -152 200 0 98536 46098 0.40142658557800104 0 1 4\n\"\"\n9183.0 2795.0 353 -187 0 0 99648 44736 0.43037124873106086 0 1 2\n\"Sims: 238k\"\n6953.0 8041.0 613 161 200 0 98984 -29222 -0.3839770379252268 0 0 3\n\"Average: 204k\"\n1:97 2:93\n20 0.9702653108819729 3 6931 8035 1 6859 7239 401.04335126158685 535 5\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (106052, -1506) at power 200\nPod 2 of player $0 moves towards (106488, 15948) at power 0\n",
+            "stdout": "106052 -1506 200\n106488 15948 0\n",
+            "view": " 119\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (82723, 70558) at power 200\nPod 2 of player $1 moves towards (83557, -56238) at power 200\n",
+            "stdout": "82723 70558 200 Sims: 249k\n83557 -56238 200 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 120\n6506.0 3202.0 268 -446 200 0 106052 -1506 -0.05236714567499334 0 1 1\n\"\"\n7164.0 7081.0 250 -129 0 0 106488 15948 0.08726732021902173 0 1 4\n\"\"\n9683.0 2744.0 425 -43 200 0 82723 70558 0.7445305140900402 0 1 2\n\"Sims: 249k\"\n7719.0 8073.0 651 27 200 0 83557 -56238 -0.6981363032842061 0 0 3\n\"Average: 205k\"\n1:96 2:92\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (103098, 29083) at power 200\nPod 2 of player $0 moves towards (104601, -15414) at power 0\n",
+            "stdout": "103098 29083 200\n104601 -15414 0\n",
+            "view": " 121\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (58684, 89916) at power 0\nPod 2 of player $1 moves towards (60710, -76732) at power 0\n",
+            "stdout": "58684 89916 0 Sims: 244k\n60710 -76732 0 Average: 206k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 122\n6967.0 2808.0 392 -335 200 0 103098 29083 0.26179211968398597 0 1 1\n\"\"\n7414.0 6952.0 212 -109 0 0 104601 -15414 -0.22689179001136564 0 1 4\n\"\"\n10108.0 2701.0 361 -36 0 0 58684 89916 1.0586897794490195 0 1 2\n\"Sims: 244k\"\n8370.0 8100.0 553 22 0 0 60710 -76732 -1.0122955686431854 0 0 3\n\"Average: 206k\"\n1:95 2:91\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (90834, 57271) at power 200\nPod 2 of player $0 moves towards (93130, -44551) at power 200\n",
+            "stdout": "90834 57271 200\n93130 -44551 200\n",
+            "view": " 123\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (29774, 100748) at power 0\nPod 2 of player $1 moves towards (32561, -88930) at power 0\n",
+            "stdout": "29774 100748 0 Sims: 235k\n32561 -88930 0 Average: 206k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 124\n7527.0 2582.0 475 -192 200 0 90834 57271 0.5759513850429653 0 1 1\n\"\"\n7797.0 6740.0 325 -180 200 0 93130 -44551 -0.5410489066760169 0 1 4\n\"\"\n10469.0 2665.0 306 -30 0 0 29774 100748 1.3728457573040425 0 1 2\n\"Sims: 235k\"\n8923.0 8122.0 470 18 0 0 32561 -88930 -1.3264548340021647 0 0 3\n\"Average: 206k\"\n1:94 2:90\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (104119, 28463) at power 200\nPod 2 of player $0 moves towards (73402, -68731) at power 200\n",
+            "stdout": "104119 28463 200\n73402 -68731 200\n",
+            "view": " 125\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-1126, 101990) at power 0\nPod 2 of player $1 moves towards (1947, -91634) at power 0\n",
+            "stdout": "-1126 101990 0 Sims: 188k\n1947 -91634 0 Average: 206k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 126\n8195.0 2442.0 567 -119 200 0 104119 28463 0.26179215879798995 0 1 1\n\"\"\n8253.0 6409.0 387 -281 200 0 73402 -68731 -0.8552081720349962 0 1 4\n\"\"\n10775.0 2635.0 260 -25 0 0 -1126 101990 1.6870050226630218 0 2 2\n\"Sims: 188k\"\n9393.0 8140.0 399 15 0 0 1947 -91634 -1.640613297087025 0 0 3\n\"Average: 206k\"\n1:93 2:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (92062, 56905) at power 200\nPod 2 of player $0 moves towards (73858, -69062) at power 0\n",
+            "stdout": "92062 56905 200\n73858 -69062 0\n",
+            "view": " 127\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-30946, 93516) at power 200\nPod 2 of player $1 moves towards (-28068, -84578) at power 0\n",
+            "stdout": "-30946 93516 200 Sims: 174k\n-28068 -84578 0 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 128\n8930.0 2432.0 624 -8 200 0 92062 56905 0.5759513850429654 0 1 1\n\"\"\n8640.0 6128.0 328 -238 0 0 73858 -69062 -0.8552184231812476 0 1 4\n\"\"\n10952.0 2792.0 150 133 200 0 -30946 93516 2.001164288022001 0 2 2\n\"Sims: 174k\"\n9792.0 8155.0 339 12 0 0 -28068 -84578 -1.9547725624460044 0 0 3\n\"Average: 205k\"\n1:92 2:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (92797, 56895) at power 0\nPod 2 of player $0 moves towards (74245, -69343) at power 200\n",
+            "stdout": "92797 56895 0\n74245 -69343 200\n",
+            "view": " 129\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-56811, 76332) at power 200\nPod 2 of player $1 moves towards (-54487, -68449) at power 0\n",
+            "stdout": "-56811 76332 200 Sims: 182k\n-54487 -68449 0 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 130\n9554.0 2424.0 530 -6 0 0 92797 56895 0.5759513850429654 0 1 1\n\"\"\n9099.0 5739.0 390 -330 200 0 74245 -69343 -0.8552184231812476 0 1 4\n\"\"\n10966.0 3072.0 12 238 200 0 -56811 76332 2.3153235533809804 0 2 2\n\"Sims: 182k\"\n10131.0 8167.0 288 10 0 0 -54487 -68449 -2.268931827804984 0 0 3\n\"Average: 205k\"\n1:91 2:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (72486, 80138) at power 200\nPod 2 of player $0 moves towards (48172, -86311) at power 0\n",
+            "stdout": "72486 80138 200\n48172 -86311 0\n",
+            "view": " 131\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-76206, 52073) at power 200\nPod 2 of player $1 moves towards (-74674, -44824) at power 200\n",
+            "stdout": "-76206 52073 200 Sims: 188k\n-74674 -44824 200 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 132\n10210.0 2573.0 557 127 200 0 72486 80138 0.8901106504019447 0 1 1\n\"\"\n9489.0 5409.0 331 -280 0 0 48172 -86311 -1.1693697412168955 0 1 4\n\"\"\n10804.0 3408.0 -137 285 200 0 -76206 52073 2.6294828187399597 0 2 2\n\"Sims: 188k\"\n10249.0 8071.0 100 -81 200 0 -74674 -44824 -2.5830910931639632 0 0 3\n\"Average: 205k\"\n1:90 2:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46046, 95931) at power 200\nPod 2 of player $0 moves towards (18204, -94210) at power 0\n",
+            "stdout": "46046 95931 200\n18204 -94210 0\n",
+            "view": " 133\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-87243, 23074) at power 200\nPod 2 of player $1 moves towards (-86781, -16120) at power 200\n",
+            "stdout": "-87243 23074 200 Sims: 199k\n-86781 -16120 200 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 134\n10839.0 2887.0 534 266 200 0 46046 95931 1.204269915760924 0 2 1\n\"\"\n9820.0 5129.0 281 -238 0 0 18204 -94210 -1.4835290065758748 0 1 4\n\"\"\n10471.0 3732.0 -283 275 200 0 -87243 23074 2.943642084098939 0 2 2\n\"Sims: 199k\"\n10155.0 7942.0 -79 -109 200 0 -86781 -16120 -2.8972503585229425 0 0 3\n\"Average: 205k\"\n1:100 2:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (16072, 102749) at power 0\nPod 2 of player $0 moves towards (-12675, -92307) at power 200\n",
+            "stdout": "16072 102749 0\n-12675 -92307 200\n",
+            "view": " 135\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 enabled its shield\nPod 2 of player $1 moves towards (-86875, -16249) at power 200\n",
+            "stdout": "-87576 23398 SHIELD Sims: 204k\n-86875 -16249 200 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 136\n11373.0 3153.0 453 226 0 0 16072 102749 1.5184291811199033 0 2 1\n\"\"\n10012.0 4872.0 -106 850 200 0 -12675 -92307 -1.7976882719348541 0 1 4\n\"\"\n10192.0 3989.0 -209 111 0 0 -87576 23398 2.943642084098939 1 2 2\n\"Sims: 204k\"\n9882.0 7785.0 -232 -133 200 0 -86875 -16249 -2.897259134451559 0 0 3\n\"Average: 205k\"\n1:99 2:95\n21 0.8776349834815305 2 10223 3973 1 10027 4749 1478.6261555476285 -23 -79\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-14508, 99745) at power 200\nPod 2 of player $0 moves towards (-12483, -92564) at power 200\n",
+            "stdout": "-14508 99745 200\n-12483 -92564 200\n",
+            "view": " 137\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (-74923, -45206) at power 0\n",
+            "stdout": "-87855 23655 0 Sims: 216k\n-74923 -45206 0 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 138\n11774.0 3572.0 341 356 200 0 -14508 99745 1.8325884464788826 0 2 1\n\"\"\n9861.0 5527.0 -128 556 200 0 -12483 -92564 -1.797690366329532 0 1 4\n\"\"\n9983.0 4100.0 -177 94 0 0 -87855 23655 2.943642084098939 0 2 2\n\"Sims: 216k\"\n9650.0 7652.0 -197 -113 0 0 -74923 -45206 -2.5830998690925795 0 0 3\n\"Average: 205k\"\n1:98 2:94\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-42689, 87439) at power 200\nPod 2 of player $0 moves towards (18576, -94092) at power 200\n",
+            "stdout": "-42689 87439 200\n18576 -94092 200\n",
+            "view": " 139\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (-54629, -68952) at power 0\n",
+            "stdout": "-77189 53101 0 Sims: 204k\n-54629 -68952 0 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 140\n12006.0 4096.0 197 445 200 0 -42689 87439 2.146747711837862 0 2 1\n\"\"\n9750.0 5884.0 -93 303 200 0 18576 -94092 -1.4835351756517914 0 1 4\n\"\"\n9806.0 4194.0 -150 79 0 0 -77189 53101 2.6294929913437857 0 2 2\n\"Sims: 204k\"\n9453.0 7539.0 -167 -96 0 0 -54629 -68952 -2.2689406037336 0 0 3\n\"Average: 205k\"\n1:97 2:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-65708, 67028) at power 200\nPod 2 of player $0 moves towards (-12745, -91552) at power 200\n",
+            "stdout": "-65708 67028 200\n-12745 -91552 200\n",
+            "view": " 141\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (-28008, -85179) at power 0\n",
+            "stdout": "-57957 77734 0 Sims: 196k\n-28008 -85179 0 Average: 205k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 142\n12048.0 4667.0 35 485 200 0 -65708 67028 2.4609069771968413 0 2 1\n\"\"\n9612.0 5992.0 -117 91 200 0 -12745 -91552 -1.797690366329532 0 1 4\n\"\"\n9656.0 4273.0 -127 67 0 0 -57957 77734 2.3153337259848064 0 2 2\n\"Sims: 196k\"\n9286.0 7443.0 -141 -81 0 0 -28008 -85179 -1.9547813383746209 0 0 3\n\"Average: 205k\"\n1:96 2:92\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-81310, 40503) at power 200\nPod 2 of player $0 moves towards (-12883, -91444) at power 200\n",
+            "stdout": "-81310 40503 200\n-12883 -91444 200\n",
+            "view": " 143\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-32065, 95154) at power 200\nPod 2 of player $1 moves towards (2310, -92313) at power 0\n",
+            "stdout": "-32065 95154 200 Sims: 183k\n2310 -92313 0 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 144\n11896.0 5224.0 -128 473 200 0 -81310 40503 2.7750662425558206 0 2 1\n\"\"\n9450.0 5888.0 -137 -88 200 0 -12883 -91444 -1.797690366329532 0 1 4\n\"\"\n9446.0 4522.0 -178 211 200 0 -32065 95154 2.001174460625827 0 2 2\n\"Sims: 183k\"\n9145.0 7362.0 -119 -68 0 0 2310 -92313 -1.6406220730156416 0 0 3\n\"Average: 204k\"\n1:95 2:91\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-81462, 41060) at power 200\nPod 2 of player $0 moves towards (-13045, -91548) at power 200\n",
+            "stdout": "-81462 41060 200\n-13045 -91548 200\n",
+            "view": " 145\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-58317, 78062) at power 200\nPod 2 of player $1 moves towards (33336, -89668) at power 0\n",
+            "stdout": "-58317 78062 200 Sims: 172k\n33336 -89668 0 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 146\n11581.0 5769.0 -267 462 200 0 -81462 41060 2.77508077939155 0 2 1\n\"\"\n9278.0 5667.0 -75 274 200 0 -13045 -91548 -1.797690366329532 0 1 4\n\"\"\n9123.0 4818.0 -346 -210 200 0 -58317 78062 2.315333471636277 0 2 2\n\"Sims: 172k\"\n9026.0 7294.0 -101 -57 0 0 33336 -89668 -1.3264628076566622 0 0 3\n\"Average: 204k\"\n1:94 2:90\n22 0.897675623676746 2 9165 4843 1 9287 5634 613.3760795106771 -248 38\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-81777, 41605) at power 200\nPod 2 of player $0 moves towards (-42225, -80049) at power 200\n",
+            "stdout": "-81777 41605 200\n-42225 -80049 200\n",
+            "view": " 147\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-32598, 95699) at power 200\nPod 2 of player $1 moves towards (62017, -77511) at power 0\n",
+            "stdout": "-32598 95699 200 Sims: 199k\n62017 -77511 0 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 148\n11127.0 6303.0 -385 453 200 0 -81777 41605 2.77508077939155 0 2 1\n\"\"\n9100.0 5770.0 -151 87 200 0 -42225 -80049 -2.1118452334709135 0 1 4\n\"\"\n8694.0 4790.0 -365 -24 200 0 -32598 95699 2.0011742062772977 0 2 2\n\"Sims: 199k\"\n8925.0 7237.0 -85 -48 0 0 62017 -77511 -1.012303542297683 0 0 3\n\"Average: 204k\"\n1:93 2:89\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-82231, 42139) at power 200\nPod 2 of player $0 moves towards (-66371, -59835) at power 200\n",
+            "stdout": "-82231 42139 200\n-66371 -59835 200\n",
+            "view": " 149\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-2901, 104115) at power 200\nPod 2 of player $1 moves towards (85529, -57042) at power 0\n",
+            "stdout": "-2901 104115 200 Sims: 195k\n85529 -57042 0 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 150\n10555.0 6828.0 -485 445 200 0 -82231 42139 2.77508077939155 0 2 1\n\"\"\n8798.0 5726.0 -256 -37 200 0 -66371 -59835 -2.4260044988298928 0 1 4\n\"\"\n8306.0 4965.0 -329 148 200 0 -2901 104115 1.6870149409183184 0 2 2\n\"Sims: 195k\"\n8840.0 7189.0 -72 -40 0 0 85529 -57042 -0.6981442769387036 0 0 3\n\"Average: 204k\"\n1:92 2:88\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-89307, 12061) at power 0\nPod 2 of player $0 moves towards (-83252, -33347) at power 200\n",
+            "stdout": "-89307 12061 0\n-83252 -33347 200\n",
+            "view": " 151\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (27972, 103012) at power 200\nPod 2 of player $1 moves towards (61831, -77616) at power 0\n",
+            "stdout": "27972 103012 200 Sims: 195k\n61831 -77616 0 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 152\n10070.0 7273.0 -412 378 0 0 -89307 12061 3.0892382251531685 0 2 1\n\"\"\n8562.0 5904.0 -149 224 200 0 -83252 -33347 -2.740163764188872 0 1 4\n\"\"\n7812.0 5016.0 -471 -30 200 0 27972 103012 1.372855675559339 0 2 2\n\"Sims: 195k\"\n8768.0 7149.0 -61 -34 0 0 61831 -77616 -1.012299831584638 0 0 3\n\"Average: 204k\"\n1:91 2:87\n23 0.22828539824434613 2 8240 5044 1 8698 5700 462.7284826621377 -365 114\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-86522, -18608) at power 0\nPod 2 of player $0 moves towards (-83488, -33169) at power 200\n",
+            "stdout": "-86522 -18608 0\n-83488 -33169 200\n",
+            "view": " 153\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (56813, 92188) at power 200\nPod 2 of player $1 moves towards (32959, -89881) at power 0\n",
+            "stdout": "56813 92188 200 Sims: 185k\n32959 -89881 0 Average: 204k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 154\n9658.0 7651.0 -350 321 0 0 -86522 -18608 -2.8798004947918034 0 2 1\n\"\"\n8229.0 6050.0 -283 123 200 0 -83488 -33169 -2.740166068011792 0 1 4\n\"\"\n7439.0 5160.0 -317 122 200 0 56813 92188 1.058696664548889 0 2 2\n\"Sims: 185k\"\n8707.0 7115.0 -51 -28 0 0 32959 -89881 -1.3264590969436174 0 0 3\n\"Average: 204k\"\n1:90 2:86\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-74209, -46812) at power 200\nPod 2 of player $0 moves towards (-67242, -59555) at power 200\n",
+            "stdout": "-74209 -46812 200\n-67242 -59555 200\n",
+            "view": " 155\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (80979, 72923) at power 200\nPod 2 of player $1 moves towards (1731, -92641) at power 0\n",
+            "stdout": "80979 72923 200 Sims: 173k\n1731 -92641 0 Average: 203k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 156\n9140.0 7863.0 -440 180 200 0 -74209 -46812 -2.5656412685468277 0 2 1\n\"\"\n7795.0 6042.0 -368 -6 200 0 -67242 -59555 -2.426014749976144 0 1 4\n\"\"\n7269.0 5418.0 -144 218 200 0 80979 72923 0.7445373991899098 0 2 2\n\"Sims: 173k\"\n8656.0 7087.0 -43 -23 0 0 1731 -92641 -1.640613297087025 0 0 3\n\"Average: 203k\"\n1:89 2:85\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-53792, -69851) at power 0\nPod 2 of player $0 moves towards (-43708, -79674) at power 200\n",
+            "stdout": "-53792 -69851 0\n-43708 -79674 200\n",
+            "view": " 157\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (56270, 92590) at power 200\nPod 2 of player $1 moves towards (1680, -92669) at power 200\n",
+            "stdout": "56270 92590 200 Sims: 179k\n1680 -92669 200 Average: 203k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 158\n8700.0 8043.0 -374 153 0 0 -53792 -69851 -2.2514820031878484 0 2 1\n\"\"\n7772.0 6394.0 -11 309 200 0 -43708 -79674 -2.111855484617165 0 1 4\n\"\"\n6775.0 5281.0 -428 -127 200 0 56270 92590 1.058696664548889 0 2 2\n\"Sims: 179k\"\n8599.0 6864.0 -48 -189 200 0 1680 -92669 -1.640613297087025 0 0 3\n\"Average: 203k\"\n1:88 2:84\n24 0.022718859349759313 2 7268 5427 1 7784 6038 709.5207116517884 -259 107\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-27136, -85315) at power 200\nPod 2 of player $0 moves towards (-67699, -59211) at power 200\n",
+            "stdout": "-27136 -85315 200\n-67699 -59211 200\n",
+            "view": " 159\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (80315, 73044) at power 200\nPod 2 of player $1 moves towards (-28862, -85854) at power 0\n",
+            "stdout": "80315 73044 200 Sims: 175k\n-28862 -85854 0 Average: 202k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 160\n8254.0 8009.0 -378 -28 200 0 -27136 -85315 -1.937322737828869 0 2 1\n\"\"\n7610.0 6572.0 -137 151 200 0 -67699 -59211 -2.426014749976144 0 1 4\n\"\"\n6494.0 5290.0 -238 7 200 0 80315 73044 0.7445373991899098 0 2 2\n\"Sims: 175k\"\n8551.0 6675.0 -40 -160 0 0 -28862 -85854 -1.9547725624460044 0 0 3\n\"Average: 202k\"\n1:87 2:83\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-27582, -85349) at power 200\nPod 2 of player $0 moves towards (-43893, -79144) at power 200\n",
+            "stdout": "-27582 -85349 200\n-43893 -79144 200\n",
+            "view": " 161\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (80034, 73053) at power 200\nPod 2 of player $1 moves towards (-55728, -69929) at power 0\n",
+            "stdout": "80034 73053 200 Sims: 172k\n-55728 -69929 0 Average: 202k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 162\n7804.0 7794.0 -382 -182 200 0 -27582 -85349 -1.93730820099314 0 2 1\n\"\"\n7370.0 6552.0 -204 -17 200 0 -43893 -79144 -2.111855484617165 0 1 4\n\"\"\n6403.0 5433.0 -77 121 200 0 80034 73053 0.7445371448413806 0 2 2\n\"Sims: 172k\"\n8511.0 6515.0 -34 -136 0 0 -55728 -69929 -2.268931827804984 0 0 3\n\"Average: 202k\"\n1:86 2:82\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-28032, -85564) at power 200\nPod 2 of player $0 moves towards (-15125, -90884) at power 200\n",
+            "stdout": "-28032 -85564 200\n-15125 -90884 200\n",
+            "view": " 163\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (97284, 47154) at power 200\nPod 2 of player $1 moves towards (-76294, -46476) at power 0\n",
+            "stdout": "97284 47154 200 Sims: 171k\n-76294 -46476 0 Average: 202k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 164\n7350.0 7425.0 -385 -313 200 0 -28032 -85564 -1.93730820099314 0 0 1\n\"\"\n7121.0 6340.0 -211 -180 200 0 -15125 -90884 -1.7976962192581856 0 1 4\n\"\"\n6508.0 5637.0 89 173 200 0 97284 47154 0.43037787948240125 0 2 2\n\"Sims: 171k\"\n8477.0 6379.0 -28 -115 0 0 -76294 -46476 -2.5830910931639632 0 0 3\n\"Average: 202k\"\n1:100 2:81\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (2116, -92437) at power 0\nPod 2 of player $0 moves towards (-44382, -79376) at power 200\n",
+            "stdout": "2116 -92437 0\n-44382 -79376 200\n",
+            "view": " 165\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (80048, 73400) at power 0\nPod 2 of player $1 moves towards (-88553, -17812) at power 200\n",
+            "stdout": "80048 73400 0 Sims: 184k\n-88553 -17812 200 Average: 201k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 166\n6957.0 7161.0 -376 44 0 0 2116 -92437 -1.6231607416226945 0 0 1\n\"\"\n7165.0 6334.0 154 -190 200 0 -44382 -79376 -2.1118452334709135 0 1 4\n\"\"\n6247.0 5416.0 -297 -271 0 0 80048 73400 0.7445371448413806 0 2 2\n\"Sims: 184k\"\n8255.0 6216.0 -188 -138 200 0 -88553 -17812 -2.8972503585229425 0 0 3\n\"Average: 201k\"\n1:99 2:80\n25 0.20112475221346338 2 6526 5672 1 7058 6269 659.6739625734244 -113 -89\n26 0.867010425307444 1 7141 6363 0 7016 7154 369.33564582455955 -130 -86\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (32838, -89431) at power 200\nPod 2 of player $0 moves towards (-68306, -59271) at power 0\n",
+            "stdout": "32838 -89431 200\n-68306 -59271 0\n",
+            "view": " 167\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (97128, 47137) at power 200\nPod 2 of player $1 moves towards (-91501, 13192) at power 200\n",
+            "stdout": "97128 47137 200 Sims: 171k\n-91501 13192 200 Average: 201k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 168\n6633.0 7012.0 -275 -126 200 0 32838 -89431 -1.3090041679969067 0 0 1\n\"\"\n7071.0 6170.0 -330 -113 0 0 -68306 -59271 -2.4260044988298928 0 1 4\n\"\"\n6132.0 5228.0 -97 -159 200 0 97128 47137 0.43037787948240125 0 2 2\n\"Sims: 171k\"\n8115.0 6066.0 131 -153 200 0 -91501 13192 -3.211409623881922 0 0 3\n\"Average: 201k\"\n1:98 2:79\n27 0.5433493696198808 3 8044 6149 1 7249 6231 545.4227794340289 -117 -157\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (32514, -89580) at power 200\nPod 2 of player $0 moves towards (-44432, -79546) at power 0\n",
+            "stdout": "32514 -89580 200\n-44432 -79546 0\n",
+            "view": " 169\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (79672, 72991) at power 200\nPod 2 of player $1 moves towards (-88915, -18125) at power 0\n",
+            "stdout": "79672 72991 200 Sims: 187k\n-88915 -18125 0 Average: 201k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 170\n6371.0 6768.0 -282 -93 200 0 32514 -89580 -1.3090041679969067 0 0 1\n\"\"\n6780.0 5982.0 -187 -274 0 0 -44432 -79546 -2.1118452334709135 0 1 4\n\"\"\n6182.0 5205.0 42 -19 200 0 79672 72991 0.7445371448413806 0 2 2\n\"Sims: 187k\"\n8246.0 5913.0 111 -130 0 0 -88915 -18125 -2.897259134451559 0 0 3\n\"Average: 201k\"\n1:97 2:78\n28 0.6421958469805809 1 6859 6097 0 6490 6807 236.09308752975477 -277 -216\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (32252, -89824) at power 200\nPod 2 of player $0 moves towards (-15715, -91454) at power 200\n",
+            "stdout": "32252 -89824 200\n-15715 -91454 200\n",
+            "view": " 171\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 enabled its shield\nPod 2 of player $1 moves towards (-76559, -47078) at power 0\n",
+            "stdout": "79722 72968 SHIELD Sims: 212k\n-76559 -47078 0 Average: 201k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 172\n6141.0 6482.0 -195 -243 200 0 32252 -89824 -1.3090041679969067 0 0 1\n\"\"\n6939.0 5996.0 310 228 200 0 -15715 -91454 -1.797690366329532 0 1 4\n\"\"\n6185.0 5138.0 -15 -78 0 0 79722 72968 0.7445371448413806 1 2 2\n\"Sims: 212k\"\n8357.0 5783.0 94 -110 0 0 -76559 -47078 -2.5830998690925795 0 0 3\n\"Average: 201k\"\n1:96 2:77\n29 0.34513467456621943 2 6196 5198 1 6700 5820 949.1777375466653 -95 -244\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (60604, -77385) at power 200\nPod 2 of player $0 moves towards (-44564, -79720) at power 0\n",
+            "stdout": "60604 -77385 200\n-44564 -79720 0\n",
+            "view": " 173\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (-55922, -70821) at power 0\n",
+            "stdout": "79725 72901 0 Sims: 217k\n-55922 -70821 0 Average: 201k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 174\n6055.0 6071.0 -73 -349 200 0 60604 -77385 -0.9948449417519313 0 0 1\n\"\"\n7249.0 6224.0 263 193 0 0 -44564 -79720 -2.1118452334709135 0 1 4\n\"\"\n6170.0 5060.0 -12 -66 0 0 79725 72901 0.7445371448413806 0 2 2\n\"Sims: 217k\"\n8451.0 5673.0 79 -93 0 0 -55922 -70821 -2.2689406037336 0 0 3\n\"Average: 201k\"\n1:95 2:76\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (83769, -56861) at power 200\nPod 2 of player $0 moves towards (-44254, -79492) at power 0\n",
+            "stdout": "83769 -56861 200\n-44254 -79492 0\n",
+            "view": " 175\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 enabled its shield\nPod 2 of player $1 moves towards (-29010, -87045) at power 0\n",
+            "stdout": "79710 72823 SHIELD Sims: 208k\n-29010 -87045 0 Average: 201k\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n\u00a4RED\u00a4End reached\u00a7RED\u00a7\n",
+            "view": " 176 endReached\n6108.0 5955.0 17 235 200 0 83769 -56861 -0.680685676392952 0 0 1\n\"\"\n7512.0 6417.0 223 164 0 0 -44254 -79492 -2.1118452334709135 0 1 4\n\"\"\n6161.0 4958.0 -4 -120 0 0 79710 72823 0.7445371448413806 1 2 2\n\"Sims: 208k\"\n8530.0 5580.0 67 -79 0 0 -29010 -87045 -1.9547813383746209 0 0 3\n\"Average: 201k\"\n1:100 2:75\n30 0.5226610623131198 2 6164 5026 0 6098 5823 754.9725439187465 35 -270\n",
+            "keyframe": true,
+            "agentId": 1
+        }
+    ],
+    "gameId": 456505753,
+    "refereeInput": "seed=810840906\npod_per_player=2\npod_timeout=100\nmap=6003 5374 11296 2830 7520 6961\n",
+    "scores": [
+        2.0,
+        1.0
+    ],
+    "ranks": [
+        0,
+        1
+    ],
+    "agents": [
+        {
+            "index": 0,
+            "codingamer": {
+                "userId": 1400179,
+                "pseudo": "reCurse",
+                "enable": false,
+                "avatar": 29364943044767
+            },
+            "agentId": 2843387,
+            "score": 59.72470465187436,
+            "valid": true
+        },
+        {
+            "index": 1,
+            "codingamer": {
+                "userId": 2522090,
+                "pseudo": "MSmits",
+                "enable": false,
+                "avatar": 17784428403916
+            },
+            "agentId": 2338306,
+            "score": 49.936584105261424,
+            "valid": true
+        }
+    ]
+}

@@ -1,0 +1,1907 @@
+{
+    "frames": [
+        {
+            "gameInformation": "",
+            "summary": "$0 rank: 1\n$1 rank: 1\n",
+            "view": " 0\nCodersStrikeBack\n16000 9000 400 600 4 0.3141592653589793\n11189 5451 7244 6660 5416 2816 10342 3391\n0 11336.0 5929.0 0 11042.0 4973.0 1 11629.0 6885.0 1 10749.0 4017.0\n11336.0 5929.0 0 0 0 0 null null null 0 1 1\n\"\"\n11042.0 4973.0 0 0 0 0 null null null 0 1 1\n\"\"\n11629.0 6885.0 0 0 0 0 null null null 0 1 1\n\"\"\n10749.0 4017.0 0 0 0 0 null null null 0 1 1\n\"\"\n1:100 1:100\n",
+            "keyframe": true,
+            "agentId": -1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 boosts towards (-28365, 1054)\nPod 2 of player $0 moves towards (-25499, 21242) at power 200\n",
+            "stdout": "-28365 1054 BOOST\n-25499 21242 200\n",
+            "view": " 1\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-84935, 32872) at power 200\nPod 2 of player $1 moves towards (-46581, 85950) at power 200\n",
+            "stdout": "-84935 32872 200\n-46581 85950 200\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 2\n10691.0 5850.0 -548 -67 650 0 -28365 1054 -3.019411413615756 0 1 1\n\"\"\n10859.0 5054.0 -155 69 200 0 -25499 21242 2.722715948771531 0 1 2\n\"\"\n11436.0 6937.0 -164 44 200 0 -84935 32872 2.8787041400128675 0 1 4\n\"\"\n10634.0 4181.0 -97 139 200 0 -46581 85950 2.1813330462001277 0 1 3\n\"\"\n1:99 2:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-25561, -11054) at power 200\nPod 2 of player $0 boosts towards (-28921, 9235)\n",
+            "stdout": "-25561 -11054 200\n-28921 9235 BOOST\n",
+            "view": " 3\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 boosts towards (-88426, 1703)\nPod 2 of player $1 moves towards (-69229, 64362) at power 0\n",
+            "stdout": "-88426 1703 BOOST\n-69229 64362 0\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 4\n9903.0 5976.0 -671 118 200 0 -25561 -11054 -2.705273600601037 0 1 1\n\"\"\n10125.0 5137.0 -618 139 650 0 -28921 9235 3.0368740541020287 0 1 2\n\"\"\n10623.0 6948.0 -691 9 650 0 -88426 1703 3.1928634053718468 0 1 3\n\"\"\n10528.0 4097.0 -93 -151 0 0 -69229 64362 2.495492311559107 0 1 4\n\"\"\n1:98 2:98\n0 0.045551402584777356 1 10822 5060 0 10658 5843 297.14415295930337 -765 -7\n1 0.296624433890935 3 10605 4222 1 10637 5022 317.862562090529 -419 -7\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-29798, 1101) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-29798 1101 200\n-26416 21406 SHIELD\n",
+            "view": " 5\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-82735, -28888) at power 0\nPod 2 of player $1 moves towards (-84023, 36653) at power 200\n",
+            "stdout": "-82735 -28888 0\n-84023 36653 200\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 6\n9033.0 6070.0 -739 79 200 0 -29798 1101 -3.019411413615756 0 1 1\n\"\"\n9507.0 5276.0 -525 118 0 0 -26416 21406 2.722715948771531 1 1 2\n\"\"\n9932.0 6957.0 -587 7 0 0 -82735 -28888 3.507022670730826 0 1 3\n\"\"\n10246.0 4011.0 -239 -72 200 0 -84023 36653 2.8096515769180863 0 1 4\n\"\"\n1:97 2:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-27219 -10834 SHIELD\n-20218 32041 SHIELD\n",
+            "view": " 7\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-83426, -28879) at power 200\nPod 2 of player $1 moves towards (-89738, 5756) at power 200\n",
+            "stdout": "-83426 -28879 200\n-89738 5756 200\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 8\n8294.0 6149.0 -628 67 0 0 -27219 -10834 -2.705273600601037 1 1 1\n\"\"\n8982.0 5394.0 -446 100 0 0 -20218 32041 2.408556683412552 1 1 3\n\"\"\n9158.0 6892.0 -657 -54 200 0 -83426 -28879 -2.77508077939155 0 1 2\n\"\"\n9807.0 3943.0 -373 -58 200 0 -89738 5756 3.1238108422770656 0 1 4\n\"\"\n1:96 2:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-20960 -21130 SHIELD\n-11018 40035 SHIELD\n",
+            "view": " 9\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-68556, -56039) at power 200\nPod 2 of player $1 moves towards (-90177, 5688) at power 200\n",
+            "stdout": "-68556 -56039 200\n-90177 5688 200\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 10\n7666.0 6216.0 -533 56 0 0 -20960 -21130 -2.3911156354735894 1 1 1\n\"\"\n8536.0 5494.0 -379 85 0 0 -11018 40035 2.0943974180535725 1 1 3\n\"\"\n8346.0 6712.0 -690 -152 200 0 -68556 -56039 -2.4609215140325706 0 1 2\n\"\"\n9234.0 3888.0 -487 -46 200 0 -90177 5688 3.124141632859199 0 1 4\n\"\"\n1:95 2:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-11726 -28768 SHIELD\n-21189 32259 SHIELD\n",
+            "view": " 11\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 enabled its shield\nPod 2 of player $1 moves towards (-90750, 5633) at power 0\n",
+            "stdout": "-69368 -56219 SHIELD\n-90750 5633 0\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 12\n6964.0 6153.0 -625 -74 0 0 -11726 -28768 -2.07695637011461 1 2 1\n\"\"\n8157.0 5579.0 -322 72 0 0 -21189 32259 2.4085452680868364 1 1 3\n\"\"\n7825.0 6679.0 -414 -7 0 0 -69368 -56219 -2.460918569056295 1 2 2\n\"\"\n8747.0 3842.0 -413 -39 0 0 -90750 5633 3.124141632859199 0 1 4\n\"\"\n1:100 2:100\n2 0.1674886783510574 2 8230 6687 0 7577 6225 2481.9167673393085 -611 -48\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-668 -33112 0\n-28384 21848 SHIELD\n",
+            "view": " 13\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (-91237, 5587) at power 0\n",
+            "stdout": "-46638 -77188 0\n-91237 5587 0\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 14\n6339.0 6079.0 -531 -62 0 0 -668 -33112 -1.7627971047556308 0 2 1\n\"\"\n7835.0 5651.0 -273 61 0 0 -28384 21848 2.7227045334458158 1 1 3\n\"\"\n7411.0 6672.0 -351 -5 0 0 -46638 -77188 -2.1467593036973156 0 2 2\n\"\"\n8334.0 3803.0 -351 -33 0 0 -91237 5587 3.124141632859199 0 1 4\n\"\"\n1:99 2:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "11213 -33622 0\n-31945 9832 SHIELD\n",
+            "view": " 15\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (-86217, 36359) at power 200\n",
+            "stdout": "-18471 -89920 0\n-86217 36359 200\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 16\n5808.0 6017.0 -451 -52 0 0 11213 -33622 -1.4486399010291342 0 2 1\n\"\"\n7562.0 5712.0 -232 51 0 0 -31945 9832 3.036863798804795 1 1 3\n\"\"\n7060.0 6667.0 -298 -4 0 0 -18471 -89920 -1.8326000383383363 0 2 2\n\"\"\n7794.0 3835.0 -459 27 200 0 -86217 36359 2.80998501401248 0 1 4\n\"\"\n1:98 2:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "22712 -30235 0\n-28979 21981 SHIELD\n",
+            "view": " 17\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 waits for its engine to reload\nPod 2 of player $1 moves towards (-72069, 64016) at power 200\n",
+            "stdout": "12293 -93195 0\n-72069 64016 200\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 18\n5357.0 5965.0 -383 -44 0 0 22712 -30235 -1.134480635670155 0 2 1\n\"\"\n7330.0 5763.0 -197 43 0 0 -28979 21981 2.722715948771531 1 1 3\n\"\"\n6762.0 6663.0 -253 -3 0 0 12293 -93195 -1.518441898358272 0 2 2\n\"\"\n7175.0 3982.0 -525 125 200 0 -72069 64016 2.4958257486535005 0 1 4\n\"\"\n1:97 2:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (32636, -23289) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "32636 -23289 200\n-22395 32528 SHIELD\n",
+            "view": " 19\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-19120, -89929) at power 200\nPod 2 of player $1 moves towards (-72688, 64163) at power 200\n",
+            "stdout": "-19120 -89929 200\n-72688 64163 200\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 20\n5110.0 5775.0 -209 -161 200 0 32636 -23289 -0.8203213703111756 0 2 1\n\"\"\n7133.0 5806.0 -167 36 0 0 -22395 32528 2.408556683412552 1 1 3\n\"\"\n6457.0 6467.0 -259 -166 200 0 -19120 -89929 -1.8325981449218327 0 2 2\n\"\"\n6490.0 4227.0 -582 208 200 0 -72688 64163 2.4958215259954146 0 1 4\n\"\"\n1:96 2:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (40094, -13617) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "40094 -13617 200\n-12867 40447 SHIELD\n",
+            "view": " 21\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (11690, -93395) at power 200\nPod 2 of player $1 moves towards (-50867, 86142) at power 200\n",
+            "stdout": "11690 -93395 200\n-50867 86142 200\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 22\n5076.0 5517.0 -28 -219 200 0 40094 -13617 -0.5061621049521963 0 2 1\n\"\"\n6966.0 5842.0 -141 30 0 0 -12867 40447 2.0943974180535725 1 1 3\n\"\"\n6208.0 6101.0 -211 -310 200 0 11690 -93395 -1.518441898358272 0 2 2\n\"\"\n5793.0 4599.0 -592 316 200 0 -50867 86142 2.1816622606364353 0 1 4\n\"\"\n1:95 2:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (32355, -23737) at power 0\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "32355 -23737 0\n-1350 44967 0\n",
+            "view": " 23\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (42044, -87257) at power 0\nPod 2 of player $1 enabled its shield\n",
+            "stdout": "42044 -87257 0\n-23444 100229 SHIELD\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 24\n4644.0 5896.0 -680 785 0 0 32355 -23737 -0.8203193086786926 0 2 2\n\"\"\n6955.0 5829.0 -6 -11 0 0 -1350 44967 1.7802381526945932 0 1 3\n\"\"\n5867.0 5834.0 -292 -226 0 0 42044 -87257 -1.2042844525966534 0 2 1\n\"\"\n5241.0 4855.0 -437 171 0 0 -23444 100229 1.867502995277456 1 1 4\n\"\"\n2:94 1:94\n4 0.024536356441182183 2 6203 6093 1 6963 5843 140.02710565552348 -176 -140\n5 0.47699125646402896 3 5511 4750 0 5063 5413 1380.1412884145486 -310 49\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (31923, -23358) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "31923 -23358 200\n11136 45609 SHIELD\n",
+            "view": " 25\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (11100, -94028) at power 200\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "11100 -94028 200\n-23996 100485 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 26\n4100.0 6535.0 -462 542 200 0 31923 -23358 -0.8203193086786926 0 2 2\n\"\"\n6949.0 5818.0 -5 -9 0 0 11136 45609 1.4660788873356139 1 1 3\n\"\"\n5585.0 5408.0 -239 -361 200 0 11100 -94028 -1.518441898358272 0 2 1\n\"\"\n4804.0 5026.0 -371 145 0 0 -23996 100485 1.8675020599072825 0 1 4\n\"\"\n2:93 1:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39084, -12857) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "39084 -12857 200\n-1367 44943 SHIELD\n",
+            "view": " 27\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (41421, -87950) at power 200\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "41421 -87950 200\n-24433 100656 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 28\n3813.0 6980.0 -244 378 200 0 39084 -12857 -0.5061600433197133 0 2 2\n\"\"\n6944.0 5809.0 -4 -7 0 0 -1367 44943 1.7802291004803554 1 1 3\n\"\"\n5418.0 4860.0 -142 -465 200 0 41421 -87950 -1.2042844525966534 0 2 1\n\"\"\n4433.0 5171.0 -315 123 0 0 -24433 100656 1.8675020599072825 0 1 4\n\"\"\n2:92 1:92\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (31092, -22274) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "31092 -22274 200\n11125 45589 SHIELD\n",
+            "view": " 29\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (68349, -72854) at power 200\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "68349 -72854 200\n6178 105155 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 30\n3705.0 7212.0 -91 196 200 0 31092 -22274 -0.8203193086786926 0 2 2\n\"\"\n6940.0 5802.0 -3 -5 0 0 11125 45589 1.4660777273071322 1 1 3\n\"\"\n5402.0 4240.0 -13 -527 200 0 68349 -72854 -0.8901251872376741 0 2 1\n\"\"\n4118.0 5294.0 -267 104 0 0 6178 105155 1.5533453060643023 0 1 4\n\"\"\n2:91 1:91\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (20609, -29040) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "20609 -29040 200\n23209 42343 SHIELD\n",
+            "view": " 31\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (89269, -50223) at power 200\nPod 2 of player $1 moves towards (36674, 99845) at power 200\n",
+            "stdout": "89269 -50223 200\n36674 99845 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 32\n3699.0 7227.0 -5 12 200 0 20609 -29040 -1.1344772738061404 0 2 2\n\"\"\n6937.0 5797.0 -2 -4 0 0 23209 42343 1.1519196219766346 1 1 3\n\"\"\n5557.0 3604.0 131 -540 200 0 89269 -50223 -0.5759659218786948 0 2 1\n\"\"\n3916.0 5587.0 -171 249 200 0 36674 99845 1.2391886872175832 0 1 4\n\"\"\n2:90 1:90\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (30978, -22027) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "30978 -22027 200\n11118 45577 SHIELD\n",
+            "view": " 33\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (102149, -22278) at power 0\nPod 2 of player $1 moves towards (36472, 100138) at power 200\n",
+            "stdout": "102149 -22278 0\n36472 100138 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 34\n3830.0 7093.0 111 -114 200 0 30978 -22027 -0.8203193086786926 0 2 2\n\"\"\n6935.0 5793.0 -1 -3 0 0 11118 45577 1.4660777273071322 1 1 3\n\"\"\n5688.0 3064.0 111 -459 0 0 102149 -22278 -0.26180665651971546 0 3 1\n\"\"\n3810.0 6025.0 -90 372 200 0 36472 100138 1.2391886872175832 0 1 4\n\"\"\n2:89 1:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (38814, -12299) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "38814 -12299 200\n-1381 44918 SHIELD\n",
+            "view": " 35\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (105550, 8297) at power 200\nPod 2 of player $1 moves towards (63991, 85888) at power 200\n",
+            "stdout": "105550 8297 200\n63991 85888 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 36\n4179.0 7316.0 328 407 200 0 38814 -12299 -0.5061600433197133 0 2 2\n\"\"\n6934.0 5790.0 0 -2 0 0 -1381 44918 1.7802291004803554 1 1 3\n\"\"\n5999.0 2615.0 264 -381 200 0 105550 8297 0.05235260883926385 0 3 1\n\"\"\n3777.0 6123.0 -59 -135 200 0 63991 85888 0.9250294218586039 0 1 4\n\"\"\n2:88 1:99\n6 0.372052768875679 3 3821 6223 0 3936 7015 698.2045741106065 158 160\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (31458, -21938) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "31458 -21938 200\n11115 45570 0\n",
+            "view": " 37\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (99357, 38451) at power 200\nPod 2 of player $1 moves towards (85692, 63480) at power 0\n",
+            "stdout": "99357 38451 200\n85692 63480 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 38\n4643.0 7577.0 394 221 200 0 31458 -21938 -0.8203193086786926 0 2 2\n\"\"\n6934.0 5788.0 0 -1 0 0 11115 45570 1.4660777273071322 0 1 3\n\"\"\n6450.0 2306.0 383 -262 200 0 99357 38451 0.36651187419824316 0 3 1\n\"\"\n3718.0 5988.0 -50 -114 0 0 85692 63480 0.6108701564996246 0 1 4\n\"\"\n2:87 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (21547, -28675) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "21547 -28675 200\n-1382 44913 0\n",
+            "view": " 39\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (84164, 65238) at power 200\nPod 2 of player $1 moves towards (99348, 35225) at power 0\n",
+            "stdout": "84164 65238 200\n99348 35225 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 40\n5122.0 7617.0 406 33 200 0 21547 -28675 -1.1344772738061404 0 2 2\n\"\"\n6934.0 5787.0 0 0 0 0 -1382 44913 1.7802291004803554 0 1 3\n\"\"\n6988.0 2170.0 457 -115 200 0 84164 65238 0.6806711395572225 0 3 1\n\"\"\n3668.0 5874.0 -42 -96 0 0 99348 35225 0.2967108911406453 0 1 4\n\"\"\n2:86 1:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (9996, -32084) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "9996 -32084 200\n11115 45567 0\n",
+            "view": " 41\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (61451, 86037) at power 200\nPod 2 of player $1 moves towards (103652, 4128) at power 0\n",
+            "stdout": "61451 86037 200\n103652 4128 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 42\n5552.0 7451.0 365 -140 200 0 9996 -32084 -1.4486365391651197 0 2 2\n\"\"\n6934.0 5787.0 0 0 0 0 11115 45567 1.4660777273071322 0 1 3\n\"\"\n7554.0 2223.0 481 44 200 0 61451 86037 0.9948304049162018 0 3 1\n\"\"\n3626.0 5778.0 -35 -81 0 0 103652 4128 -0.017448374218334006 0 1 4\n\"\"\n2:85 1:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-2080, -31814) at power 200\nPod 2 of player $0 moves towards (-1382, 44912) at power 200\n",
+            "stdout": "-2080 -31814 200\n-1382 44912 200\n",
+            "view": " 43\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (85268, 65155) at power 200\nPod 2 of player $1 moves towards (98177, -26778) at power 200\n",
+            "stdout": "85268 65155 200\n98177 -26778 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 44\n5879.0 7115.0 277 -285 200 0 -2080 -31814 -1.7627741309971128 0 2 2\n\"\"\n6892.0 5983.0 -35 166 200 0 -1382 44912 1.7802291004803554 0 1 3\n\"\"\n8190.0 2393.0 540 144 200 0 85268 65155 0.6806818560582406 0 3 1\n\"\"\n3780.0 5632.0 130 -124 200 0 98177 -26778 -0.33160763957731326 0 1 4\n\"\"\n2:84 1:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-13513, -27869) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-13513 -27869 200\n-13108 40624 SHIELD\n",
+            "view": " 45\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (62653, 86260) at power 200\nPod 2 of player $1 moves towards (103764, 3886) at power 0\n",
+            "stdout": "62653 86260 200\n103764 3886 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 46\n6059.0 6655.0 153 -390 200 0 -13513 -27869 -2.0769333963560923 0 2 2\n\"\"\n6857.0 6149.0 -29 141 0 0 -13108 40624 2.0943883658393347 1 1 3\n\"\"\n8839.0 2705.0 551 264 200 0 62653 86260 0.9948411214172199 0 3 1\n\"\"\n3910.0 5508.0 110 -105 0 0 103764 3886 -0.01746101928354579 0 1 4\n\"\"\n2:83 1:94\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-13333, -28329) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-13333 -28329 200\n-22868 32914 SHIELD\n",
+            "view": " 47\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (34720, 99297) at power 200\nPod 2 of player $1 moves towards (98461, -27048) at power 200\n",
+            "stdout": "34720 99297 200\n98461 -27048 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 48\n5808.0 6184.0 -377 -350 200 0 -13333 -28329 -2.076942950051955 0 2 2\n\"\"\n6859.0 6281.0 17 106 0 0 -22868 32914 2.4085452680868364 1 2 3\n\"\"\n9442.0 3162.0 512 388 200 0 34720 99297 1.3090003867761992 0 3 1\n\"\"\n4209.0 5338.0 254 -144 200 0 98461 -27048 -0.33160763957731326 0 1 4\n\"\"\n2:100 1:93\n7 0.38604756475264485 1 6846 6203 0 6081 6437 522.4716304644629 14 -212\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-1824, -33081) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-1824 -33081 200\n-29682 22550 SHIELD\n",
+            "view": " 49\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (4208, 103024) at power 200\nPod 2 of player $1 moves towards (104193, 3592) at power 200\n",
+            "stdout": "4208 103024 200\n104193 3592 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 50\n5393.0 5638.0 -352 -464 200 0 -1824 -33081 -1.7627836846929759 0 2 2\n\"\"\n6876.0 6387.0 14 90 0 0 -29682 22550 2.7227045334458158 1 2 3\n\"\"\n9944.0 3750.0 426 499 200 0 4208 103024 1.6231596521351785 0 0 1\n\"\"\n4663.0 5191.0 385 -125 200 0 104193 3592 -0.01746101928354579 0 1 4\n\"\"\n2:99 1:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-13999, -29346) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-13999 -29346 200\n-22849 33152 SHIELD\n",
+            "view": " 51\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-25892, 97108) at power 200\nPod 2 of player $1 enabled its shield\n",
+            "stdout": "-25892 97108 200\n99214 -27365 SHIELD\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 52\n6365.0 5863.0 52 -737 200 0 -13999 -29346 -2.076942950051955 0 2 2\n\"\"\n6891.0 6478.0 97 174 0 0 -22849 33152 2.4085452680868364 1 2 3\n\"\"\n10298.0 4436.0 301 582 200 0 -25892 97108 1.93730820099314 0 0 1\n\"\"\n4905.0 4978.0 198 -185 0 0 99214 -27365 -0.33160763957731326 1 1 4\n\"\"\n2:98 1:99\n8 0.057150505409614034 3 4685 5184 0 5367 5601 1781.077445263435 -32 -382\n9 0.9890799036160951 1 6890 6476 0 6365 5873 1536.1388232998836 542 190\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-22889, -21416) at power 0\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-22889 -21416 0\n-13109 41119 SHIELD\n",
+            "view": " 53\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-52633, 82150) at power 0\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-52633 82150 0\n99456 -27578 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 54\n6417.0 5126.0 44 -626 0 0 -22889 -21416 -2.3911022154109345 0 2 2\n\"\"\n6988.0 6652.0 82 147 0 0 -13109 41119 2.0943953042854853 1 2 3\n\"\"\n10599.0 5018.0 255 494 0 0 -52633 82150 2.2514674663521195 0 0 1\n\"\"\n5103.0 4793.0 168 -157 0 0 99456 -27578 -0.33160763957731326 0 1 4\n\"\"\n2:97 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-29835, -11778) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-29835 -11778 200\n-1328 45777 SHIELD\n",
+            "view": " 55\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-73268, 59481) at power 0\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-73268 59481 0\n84966 -55388 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 56\n6280.0 4415.0 -116 -603 200 0 -29835 -11778 -2.705261480769914 0 2 2\n\"\"\n7070.0 6799.0 69 124 0 0 -1328 45777 1.780236038926506 1 2 3\n\"\"\n10854.0 5512.0 216 419 0 0 -73268 59481 2.565626731711099 0 1 1\n\"\"\n5271.0 4636.0 142 -133 0 0 84966 -55388 -0.6457669049362926 0 1 4\n\"\"\n2:96 1:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-33421, -459) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-33421 -459 200\n11251 46579 SHIELD\n",
+            "view": " 57\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-85738, 31393) at power 200\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-85738 31393 200\n99822 -27920 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 58\n5965.0 3788.0 -267 -533 200 0 -33421 -459 -3.019420746128893 0 2 2\n\"\"\n7139.0 6923.0 58 105 0 0 11251 46579 1.4660777273071322 1 2 3\n\"\"\n10877.0 5983.0 19 400 200 0 -85738 31393 2.879785997070078 0 1 1\n\"\"\n5413.0 4503.0 120 -113 0 0 99822 -27920 -0.3316076395773133 0 1 4\n\"\"\n2:95 1:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-33300 11420 SHIELD\n-1177 46048 SHIELD\n",
+            "view": " 59\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-88985, 749) at power 200\nPod 2 of player $1 moves towards (105397, 2757) at power 0\n",
+            "stdout": "-88985 749 200\n105397 2757 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 60\n5698.0 3255.0 -226 -453 0 0 -33300 11420 2.949614849387577 1 3 2\n\"\"\n7197.0 7028.0 49 89 0 0 -1177 46048 1.7802291004803554 1 2 3\n\"\"\n10696.0 6373.0 -153 331 200 0 -88985 749 3.1939452624290574 0 1 1\n\"\"\n5533.0 4390.0 102 -96 0 0 105397 2757 -0.01746101928354579 0 1 4\n\"\"\n2:100 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "-29286 22647 SHIELD\n-12803 41669 SHIELD\n",
+            "view": " 61\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-82662, -29463) at power 200\nPod 2 of player $1 moves towards (100084, -28166) at power 0\n",
+            "stdout": "-82662 -29463 200\n100084 -28166 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 62\n5472.0 2802.0 -192 -385 0 0 -29286 22647 2.635455584028598 1 3 2\n\"\"\n7246.0 7117.0 41 75 0 0 -12803 41669 2.0943883658393347 1 2 3\n\"\"\n10356.0 6632.0 -288 220 200 0 -82662 -29463 3.5081045277880367 0 1 1\n\"\"\n5635.0 4294.0 86 -81 0 0 100084 -28166 -0.33160763957731326 0 1 4\n\"\"\n2:99 1:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "-21807 32056 0\n-22479 33882 0\n",
+            "view": " 63\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-83002, -29204) at power 200\nPod 2 of player $1 moves towards (105619, 2548) at power 0\n",
+            "stdout": "-83002 -29204 200\n105619 2548 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 64\n5280.0 2417.0 -163 -327 0 0 -21807 32056 2.3212963186696185 0 3 2\n\"\"\n7287.0 7192.0 34 63 0 0 -22479 33882 2.4085452680868364 0 2 3\n\"\"\n9881.0 6780.0 -403 126 200 0 -83002 -29204 -2.77508077939155 0 1 1\n\"\"\n5721.0 4213.0 73 -68 0 0 105619 2548 -0.01746101928354579 0 1 4\n\"\"\n2:98 1:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "-11624 38669 SHIELD\n-29254 23461 0\n",
+            "view": " 65\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-67833, -56151) at power 200\nPod 2 of player $1 moves towards (100272, -28343) at power 0\n",
+            "stdout": "-67833 -56151 200\n100272 -28343 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 66\n5117.0 2090.0 -138 -277 0 0 -11624 38669 2.007137053310639 1 3 2\n\"\"\n7321.0 7255.0 28 53 0 0 -29254 23461 2.7227045334458158 0 2 3\n\"\"\n9323.0 6780.0 -474 0 200 0 -67833 -56151 -2.4609215140325706 0 1 1\n\"\"\n5794.0 4145.0 62 -57 0 0 100272 -28343 -0.33160763957731326 0 1 4\n\"\"\n2:97 1:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "242 41791 0\n-32459 11436 SHIELD\n",
+            "view": " 67\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-68391, -56151) at power 200\nPod 2 of player $1 moves towards (85657, -56036) at power 0\n",
+            "stdout": "-68391 -56151 200\n85657 -56036 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 68\n4979.0 1813.0 -117 -235 0 0 242 41791 1.6929777879516599 0 3 2\n\"\"\n7349.0 7308.0 23 45 0 0 -32459 11436 3.036863798804795 1 2 3\n\"\"\n8694.0 6654.0 -535 -106 200 0 -68391 -56151 -2.460918569056295 0 1 1\n\"\"\n5856.0 4088.0 52 -48 0 0 85657 -56036 -0.6457669049362926 0 1 4\n\"\"\n2:96 1:94\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "12611 41078 0\n-31776 -1008 SHIELD\n",
+            "view": " 69\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-45769, -77213) at power 0\nPod 2 of player $1 moves towards (63213, -77827) at power 0\n",
+            "stdout": "-45769 -77213 0\n63213 -77827 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 70\n4862.0 1578.0 -99 -199 0 0 12611 41078 1.3788185225926806 0 3 2\n\"\"\n7372.0 7353.0 19 38 0 0 -31776 -1008 3.3510230641637744 1 2 3\n\"\"\n8159.0 6548.0 -454 -90 0 0 -45769 -77213 -2.1467593036973156 0 1 1\n\"\"\n5908.0 4040.0 44 -40 0 0 63213 -77827 -0.9599261702952719 0 1 4\n\"\"\n2:95 1:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "24254 36562 0\n-27269 -12646 SHIELD\n",
+            "view": " 71\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-17723, -90044) at power 200\nPod 2 of player $1 moves towards (35145, -91590) at power 0\n",
+            "stdout": "-17723 -90044 200\n35145 -91590 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 72\n4763.0 1379.0 -84 -169 0 0 24254 36562 1.0646592572337013 0 3 2\n\"\"\n7391.0 7391.0 16 32 0 0 -27269 -12646 -2.6180153270099797 1 2 3\n\"\"\n7653.0 6265.0 -429 -240 200 0 -17723 -90044 -1.8326000383383363 0 2 1\n\"\"\n5952.0 4000.0 37 -34 0 0 35145 -91590 -1.2740854356542513 0 1 4\n\"\"\n2:94 1:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (34017, 28658) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "34017 28658 200\n-19374 -22334 0\n",
+            "view": " 73\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-18228, -90327) at power 200\nPod 2 of player $1 moves towards (4206, -95984) at power 200\n",
+            "stdout": "-18228 -90327 200\n4206 -95984 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 74\n4825.0 1346.0 52 -27 200 0 34017 28658 0.7504999918747219 0 3 2\n\"\"\n7407.0 7423.0 13 27 0 0 -19374 -22334 -2.3038560616510004 0 2 3\n\"\"\n7172.0 5832.0 -408 -368 200 0 -18228 -90327 -1.8325884855928867 0 2 1\n\"\"\n5986.0 3766.0 28 -198 200 0 4206 -95984 -1.5882447010132306 0 1 4\n\"\"\n2:93 1:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (41077, 18250) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "41077 18250 200\n-8862 -29118 0\n",
+            "view": " 75\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-18709, -90760) at power 200\nPod 2 of player $1 moves towards (4240, -96218) at power 200\n",
+            "stdout": "-18709 -90760 200\n4240 -96218 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 76\n5058.0 1404.0 198 48 200 0 41077 18250 0.4363407265157426 0 3 2\n\"\"\n7420.0 7450.0 11 22 0 0 -8862 -29118 -1.9896967962920211 0 2 3\n\"\"\n6712.0 5271.0 -390 -477 200 0 -18709 -90760 -1.8325884855928867 0 2 1\n\"\"\n6011.0 3368.0 20 -338 200 0 4240 -96218 -1.5882573460784426 0 1 4\n\"\"\n2:92 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (44759, 6278) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "44759 6278 200\n3238 -32330 0\n",
+            "view": " 77\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (11945, -94591) at power 200\nPod 2 of player $1 moves towards (4265, -96616) at power 200\n",
+            "stdout": "11945 -94591 200\n4265 -96616 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 78\n5455.0 1476.0 337 61 200 0 44759 6278 0.12218146115676332 0 3 2\n\"\"\n7431.0 7472.0 9 18 0 0 3238 -32330 -1.675539789818502 0 2 3\n\"\"\n6332.0 4594.0 -322 -575 200 0 11945 -94591 -1.518441898358272 0 2 1\n\"\"\n6028.0 2830.0 14 -457 200 0 4265 -96616 -1.5882573460784426 0 1 4\n\"\"\n2:91 1:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (41707, 18380) at power 200\nPod 2 of player $0 moves towards (15747, -31653) at power 200\n",
+            "stdout": "41707 18380 200\n15747 -31653 200\n",
+            "view": " 79\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (42168, -88764) at power 200\nPod 2 of player $1 moves towards (35265, -92800) at power 200\n",
+            "stdout": "42168 -88764 200\n35265 -92800 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 80\n5905.0 1405.0 212 -598 200 0 41707 18380 0.4363190529887563 0 3 2\n\"\"\n7482.0 7294.0 42 -150 200 0 15747 -31653 -1.3613805244595227 0 2 3\n\"\"\n6082.0 3832.0 -212 -647 200 0 42168 -88764 -1.2042844525966534 0 2 1\n\"\"\n6169.0 2399.0 289 171 200 0 35265 -92800 -1.2740980807194633 0 1 4\n\"\"\n2:90 1:96\n10 0.7447431457986476 3 6082 2347 0 5841 1584 891.202080605017 295 -251\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (35159, 28684) at power 200\nPod 2 of player $0 moves towards (27481, -27347) at power 200\n",
+            "stdout": "35159 28684 200\n27481 -27347 200\n",
+            "view": " 81\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (69013, -73882) at power 0\nPod 2 of player $1 moves towards (63526, -79516) at power 200\n",
+            "stdout": "69013 -73882 0\n63526 -79516 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 82\n6263.0 943.0 304 -392 200 0 35159 28684 0.750477018116204 0 3 2\n\"\"\n7624.0 6971.0 120 -274 200 0 27481 -27347 -1.0472212591005434 0 2 3\n\"\"\n5870.0 3185.0 -180 -549 0 0 69013 -73882 -0.8901251872376741 0 3 1\n\"\"\n6573.0 2406.0 343 6 200 0 63526 -79516 -0.959938815360484 0 1 4\n\"\"\n2:89 1:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (25655, 35927) at power 200\nPod 2 of player $0 moves towards (15940, -32154) at power 200\n",
+            "stdout": "25655 35927 200\n15940 -32154 200\n",
+            "view": " 83\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (89737, -51278) at power 200\nPod 2 of player $1 moves towards (63930, -79509) at power 0\n",
+            "stdout": "89737 -51278 200\n63930 -79509 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 84\n6664.0 726.0 340 -184 200 0 25655 35927 1.0646362834751835 0 3 2\n\"\"\n7786.0 6501.0 137 -399 200 0 15940 -32154 -1.361363553109438 0 2 3\n\"\"\n5858.0 2527.0 -10 -559 200 0 89737 -51278 -0.5759659218786948 0 3 1\n\"\"\n6916.0 2412.0 291 5 0 0 63930 -79509 -0.9599351884130045 0 1 4\n\"\"\n2:88 1:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (35918, 28005) at power 200\nPod 2 of player $0 moves towards (27785, -28140) at power 0\n",
+            "stdout": "35918 28005 200\n27785 -28140 0\n",
+            "view": " 85\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (102450, -23355) at power 0\nPod 2 of player $1 moves towards (36153, -93218) at power 200\n",
+            "stdout": "102450 -23355 0\n36153 -93218 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 86\n7150.0 678.0 413 -40 200 0 35918 28005 0.7504770181162042 0 3 2\n\"\"\n7923.0 6102.0 116 -339 0 0 27785 -28140 -1.047219000215083 0 2 3\n\"\"\n5848.0 1968.0 -8 -475 0 0 102450 -23355 -0.26180665651971546 0 3 1\n\"\"\n7265.0 2226.0 297 -158 200 0 36153 -93218 -1.2740905936825109 0 1 4\n\"\"\n2:87 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (36404, 27957) at power 200\nPod 2 of player $0 moves towards (27922, -28539) at power 200\n",
+            "stdout": "36404 27957 200\n27922 -28539 200\n",
+            "view": " 87\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (105710, 7201) at power 200\nPod 2 of player $1 moves towards (64622, -79689) at power 200\n",
+            "stdout": "105710 7201 200\n64622 -79689 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 88\n7709.0 774.0 475 81 200 0 36404 27957 0.750477018116204 0 3 2\n\"\"\n8139.0 5590.0 183 -435 200 0 27922 -28539 -1.047219000215083 0 2 3\n\"\"\n6040.0 1503.0 162 -394 200 0 105710 7201 0.05235260883926385 0 3 1\n\"\"\n7677.0 1904.0 349 -273 200 0 64622 -79689 -0.9599351884130045 0 1 4\n\"\"\n2:86 1:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (27101, 35758) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "27101 35758 200\n16455 -33535 SHIELD\n",
+            "view": " 89\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (99398, 37339) at power 200\nPod 2 of player $1 moves towards (65034, -80011) at power 200\n",
+            "stdout": "99398 37339 200\n65034 -80011 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 90\n8318.0 681.0 546 -355 200 0 27101 35758 1.0646362834751835 0 3 2\n\"\"\n8322.0 5155.0 155 -369 0 0 16455 -33535 -1.361363553109438 1 2 3\n\"\"\n6389.0 1181.0 296 -273 200 0 99398 37339 0.36651187419824316 0 3 1\n\"\"\n8104.0 1816.0 333 201 200 0 65034 -80011 -0.9599351884130045 0 1 4\n\"\"\n2:85 1:96\n11 0.48278340264299613 3 7901 1693 0 7985 898 677.4985167449747 518 -90\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (15950, 39946) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "15950 39946 200\n4140 -34625 0\n",
+            "view": " 91\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (84103, 64113) at power 200\nPod 2 of player $1 moves towards (37341, -93814) at power 0\n",
+            "stdout": "84103 64113 200\n37341 -93814 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 92\n8902.0 522.0 496 -134 200 0 15950 39946 1.3787955488341628 0 3 2\n\"\"\n8477.0 4786.0 131 -313 0 0 4140 -34625 -1.6755228184684172 0 2 3\n\"\"\n6840.0 1034.0 383 -125 200 0 84103 64113 0.6806711395572225 0 3 1\n\"\"\n8437.0 2017.0 283 170 0 0 37341 -93814 -1.2740905936825109 0 1 4\n\"\"\n2:84 1:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (4027, 40223) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "4027 40223 200\n16793 -34339 0\n",
+            "view": " 93\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (84554, 63966) at power 200\nPod 2 of player $1 moves towards (65794, -79898) at power 200\n",
+            "stdout": "84554 63966 200\n65794 -79898 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 94\n9374.0 587.0 400 54 200 0 4027 40223 1.692954814193142 0 3 2\n\"\"\n8608.0 4473.0 111 -266 0 0 16793 -34339 -1.361363553109438 0 2 3\n\"\"\n7378.0 1035.0 457 0 200 0 84554 63966 0.6806818560582406 0 3 1\n\"\"\n8835.0 2023.0 338 5 200 0 65794 -79898 -0.9599351884130045 0 1 4\n\"\"\n2:83 1:94\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-7530, 36839) at power 0\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "-7530 36839 0\n28607 -30168 0\n",
+            "view": " 95\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (61841, 84902) at power 0\nPod 2 of player $1 moves towards (66192, -79892) at power 200\n",
+            "stdout": "61841 84902 0\n66192 -79892 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 96\n9774.0 641.0 340 45 0 0 -7530 36839 2.0071140795521214 0 3 2\n\"\"\n8719.0 4207.0 94 -226 0 0 28607 -30168 -1.047219000215083 0 2 3\n\"\"\n7835.0 1035.0 388 0 0 0 61841 84902 0.9948411214172199 0 3 1\n\"\"\n9288.0 1864.0 384 -135 200 0 66192 -79892 -0.9599351884130045 0 1 4\n\"\"\n2:82 1:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-17505, 29895) at power 0\nPod 2 of player $0 moves towards (17035, -34918) at power 200\n",
+            "stdout": "-17505 29895 0\n17035 -34918 200\n",
+            "view": " 97\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (33716, 97627) at power 200\nPod 2 of player $1 moves towards (38525, -93766) at power 0\n",
+            "stdout": "33716 97627 200\n38525 -93766 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 98\n10114.0 686.0 289 38 0 0 -17505 29895 2.3212733449111007 0 3 2\n\"\"\n8855.0 3785.0 115 -358 200 0 17035 -34918 -1.361363553109438 0 2 3\n\"\"\n8275.0 1228.0 373 164 200 0 33716 97627 1.3090003867761992 0 3 1\n\"\"\n9672.0 1729.0 326 -114 0 0 38525 -93766 -1.2740905936825109 0 1 4\n\"\"\n2:81 1:92\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-6790, 36938) at power 200\nPod 2 of player $0 moves towards (17171, -35340) at power 200\n",
+            "stdout": "-6790 36938 200\n17171 -35340 200\n",
+            "view": " 99\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (62738, 85095) at power 200\nPod 2 of player $1 moves towards (7926, -98255) at power 200\n",
+            "stdout": "62738 85095 200\n7926 -98255 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 100\n10410.0 729.0 380 -211 200 0 -6790 36938 2.007115379783653 0 3 2\n\"\"\n9012.0 3231.0 133 -470 200 0 17171 -35340 -1.361363553109438 0 2 3\n\"\"\n8757.0 1560.0 409 281 200 0 62738 85095 0.9948449417519313 0 3 1\n\"\"\n9903.0 1591.0 67 131 200 0 7926 -98255 -1.5882498590414902 0 1 4\n\"\"\n2:80 1:91\n12 0.6241830103627363 3 9873 1533 0 10242 823 527.6963211039956 263 -47\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (5535, 40430) at power 200\nPod 2 of player $0 moves towards (17328, -35894) at power 200\n",
+            "stdout": "5535 40430 200\n17328 -35894 200\n",
+            "view": " 101\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (63220, 85427) at power 200\nPod 2 of player $1 moves towards (8157, -98393) at power 0\n",
+            "stdout": "63220 85427 200\n8157 -98393 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 102\n10766.0 717.0 302 -10 200 0 5535 40430 1.692977566768934 0 3 2\n\"\"\n9183.0 2807.0 132 376 200 0 17328 -35894 -1.361363553109438 0 2 3\n\"\"\n9164.0 1795.0 -75 -430 200 0 63220 85427 0.9948449417519313 0 3 1\n\"\"\n10085.0 1694.0 588 -18 0 0 8157 -98393 -1.5882573460784426 0 1 4\n\"\"\n2:79 1:90\n14 0.7817119330562432 2 9162 1911 1 9148 2711 1108.4585412645577 346 -108\n15 0.8165483593655736 3 9958 1698 2 9181 1888 643.6782084199809 302 -264\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-6138, 36969) at power 0\nPod 2 of player $0 moves towards (5001, -36973) at power 200\n",
+            "stdout": "-6138 36969 0\n5001 -36973 200\n",
+            "view": " 103\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (86878, 64727) at power 200\nPod 2 of player $1 moves towards (-22471, -92857) at power 0\n",
+            "stdout": "86878 64727 200\n-22471 -92857 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 104\n11068.0 707.0 256 -8 0 0 -6138 36969 2.007115379783653 0 3 2\n\"\"\n9294.0 2984.0 94 150 200 0 5001 -36973 -1.6755228184684172 0 2 3\n\"\"\n9244.0 1491.0 68 -258 200 0 86878 64727 0.680685676392952 0 3 1\n\"\"\n10673.0 1676.0 499 -15 0 0 -22471 -92857 -1.90240396637221 0 1 4\n\"\"\n2:78 1:89\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-5836, 36959) at power 200\nPod 2 of player $0 moves towards (17610, -36141) at power 200\n",
+            "stdout": "-5836 36959 200\n17610 -36141 200\n",
+            "view": " 105\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (86958, 64423) at power 200\nPod 2 of player $1 moves towards (-21883, -92875) at power 200\n",
+            "stdout": "86958 64423 200\n-21883 -92875 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 106\n11301.0 694.0 262 -208 200 0 -5836 36959 2.007115379783653 0 3 2\n\"\"\n9430.0 2938.0 115 -38 200 0 17610 -36141 -1.361363553109438 0 2 3\n\"\"\n9467.0 1359.0 189 -112 200 0 86958 64423 0.6806818560582406 0 3 1\n\"\"\n11046.0 1659.0 251 182 200 0 -21883 -92875 -1.90240396637221 0 1 4\n\"\"\n2:77 1:88\n16 0.5537445604071186 3 10913 1563 0 11163 803 440.41687013353 303 -15\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-15978, 29948) at power 200\nPod 2 of player $0 moves towards (29429, -31703) at power 200\n",
+            "stdout": "-15978 29948 200\n29429 -31703 200\n",
+            "view": " 107\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (63930, 85226) at power 200\nPod 2 of player $1 moves towards (-49135, -78204) at power 0\n",
+            "stdout": "63930 85226 200\n-49135 -78204 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 108\n11427.0 632.0 106 -52 200 0 -15978 29948 2.3212733449111007 0 3 2\n\"\"\n9645.0 2727.0 182 -179 200 0 29429 -31703 -1.047219000215083 0 2 3\n\"\"\n9765.0 1415.0 253 47 200 0 63930 85226 0.9948411214172199 0 3 1\n\"\"\n11297.0 1841.0 213 154 0 0 -49135 -78204 -2.2165632317311896 0 1 4\n\"\"\n2:76 1:87\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 moves towards (29644, -31914) at power 200\n",
+            "stdout": "-5477 36884 SHIELD\n29644 -31914 200\n",
+            "view": " 109\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (35646, 98007) at power 200\nPod 2 of player $1 moves towards (-70618, -55516) at power 0\n",
+            "stdout": "35646 98007 200\n-70618 -55516 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 110\n11533.0 580.0 90 -44 0 0 -5477 36884 2.007115379783653 1 3 2\n\"\"\n9915.0 2440.0 153 185 200 0 29644 -31914 -1.047219000215083 0 2 3\n\"\"\n10081.0 1590.0 345 -280 200 0 35646 98007 1.3090003867761992 0 3 1\n\"\"\n11510.0 1995.0 181 130 0 0 -70618 -55516 -2.530722497090169 0 1 4\n\"\"\n2:75 1:86\n17 0.8851772250223364 2 10035 1628 1 9895 2415 579.2423682672771 293 -56\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (18231, -36685) at power 200\n",
+            "stdout": "-15746 29834 0\n18231 -36685 200\n",
+            "view": " 111\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (4847, 101452) at power 200\nPod 2 of player $1 moves towards (-84120, -27242) at power 0\n",
+            "stdout": "4847 101452 200\n-84120 -27242 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 112\n11623.0 536.0 76 -37 0 0 -15746 29834 2.3212733449111007 0 3 2\n\"\"\n10110.0 2429.0 165 -9 200 0 18231 -36685 -1.361363553109438 0 2 3\n\"\"\n10416.0 1510.0 284 -68 200 0 4847 101452 1.6231596521351785 0 3 1\n\"\"\n11691.0 2125.0 153 110 0 0 -84120 -27242 -2.8448817624491483 0 1 4\n\"\"\n2:74 1:85\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 moves towards (30109, -32212) at power 200\n",
+            "stdout": "-5281 36788 SHIELD\n30109 -32212 200\n",
+            "view": " 113\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-25420, 94868) at power 200\nPod 2 of player $1 moves towards (-88293, 3870) at power 200\n",
+            "stdout": "-25420 94868 200\n-88293 3870 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 114\n11699.0 499.0 64 -31 0 0 -5281 36788 2.007115379783653 1 3 2\n\"\"\n10329.0 2371.0 136 84 200 0 30109 -32212 -1.047219000215083 0 2 3\n\"\"\n10674.0 1504.0 268 -138 200 0 -25420 94868 1.93730820099314 0 3 1\n\"\"\n11644.0 2238.0 -39 96 200 0 -88293 3870 -3.1590410278081276 0 1 4\n\"\"\n2:73 1:84\n18 0.5593336538687459 2 10535 1576 1 10258 2327 300.57930900542084 239 -32\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 moves towards (40054, -24394) at power 200\n",
+            "stdout": "-15580 29753 SHIELD\n40054 -24394 200\n",
+            "view": " 115\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-25162, 94862) at power 200\nPod 2 of player $1 moves towards (-83986, -26999) at power 200\n",
+            "stdout": "-25162 94862 200\n-83986 -26999 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 116\n11763.0 468.0 54 -26 0 0 -15580 29753 2.3212733449111007 1 3 2\n\"\"\n10614.0 2321.0 241 -42 200 0 40054 -24394 -0.7330597348561037 0 2 3\n\"\"\n10870.0 1553.0 166 41 200 0 -25162 94862 1.93730820099314 0 3 1\n\"\"\n11414.0 2276.0 -195 31 200 0 -83986 -26999 -2.8448869204774074 0 1 4\n\"\"\n2:72 1:83\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (47155, -13948) at power 0\n",
+            "stdout": "-23221 19860 0\n47155 -13948 0\n",
+            "view": " 117\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-52061, 79267) at power 200\nPod 2 of player $1 moves towards (-84216, -26961) at power 0\n",
+            "stdout": "-52061 79267 200\n-84216 -26961 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 118\n11817.0 442.0 45 -22 0 0 -23221 19860 2.63543261027008 0 3 2\n\"\"\n10361.0 2460.0 -220 129 0 0 47155 -13948 -0.41890046949712434 0 2 3\n\"\"\n10967.0 1592.0 86 23 200 0 -52061 79267 2.2514674663521195 0 3 1\n\"\"\n11656.0 2282.0 207 5 0 0 -84216 -26961 -2.8448869204774074 0 1 4\n\"\"\n2:71 1:82\n20 0.0028780247816320107 3 11413 2276 1 10615 2321 439.4032025088119 23 -5\n22 0.07312259887901806 2 10873 1567 1 10601 2320 180.08493214165392 -79 90\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (46902, -13809) at power 200\n",
+            "stdout": "-15462 29696 0\n46902 -13809 200\n",
+            "view": " 119\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24869, 94950) at power 200\nPod 2 of player $1 moves towards (-88328, 4027) at power 200\n",
+            "stdout": "-24869 94950 200\n-88328 4027 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 120\n11862.0 420.0 38 -18 0 0 -15462 29696 2.3212733449111007 0 3 2\n\"\"\n10324.0 2508.0 -31 40 200 0 46902 -13809 -0.41887670481826206 0 2 3\n\"\"\n10981.0 1802.0 12 178 200 0 -24869 94950 1.9373082009931402 0 3 1\n\"\"\n11663.0 2290.0 5 7 200 0 -88328 4027 3.124141632859199 0 1 4\n\"\"\n2:70 1:81\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 moves towards (46865, -13761) at power 200\n",
+            "stdout": "-23122 19812 SHIELD\n46865 -13761 200\n",
+            "view": " 121\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-51950, 79516) at power 200\nPod 2 of player $1 moves towards (-88321, 4035) at power 0\n",
+            "stdout": "-51950 79516 200\n-88321 4035 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 122\n11900.0 402.0 32 -15 0 0 -23122 19812 2.63543261027008 1 3 2\n\"\"\n10273.0 2673.0 -141 239 200 0 46865 -13761 -0.41887670481826206 0 2 3\n\"\"\n10966.0 1875.0 15 -73 200 0 -51950 79516 2.2514674663521195 0 3 1\n\"\"\n11772.0 2351.0 161 88 0 0 -88321 4035 3.124141632859199 0 1 4\n\"\"\n2:69 1:80\n23 0.3617853325583831 2 10940 1923 1 10379 2493 453.4271670969249 19 146\n24 0.4397991846957095 3 11665 2293 2 10956 1923 208.9894399342005 105 9\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (39998, -24092) at power 200\n",
+            "stdout": "-15379 29656 0\n39998 -24092 200\n",
+            "view": " 123\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-51965, 79589) at power 200\nPod 2 of player $1 moves towards (-88212, 4096) at power 0\n",
+            "stdout": "-51965 79589 200\n-88212 4096 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 124\n11932.0 387.0 27 -12 0 0 -15379 29656 2.3212733449111007 0 3 2\n\"\"\n10281.0 2778.0 6 89 200 0 39998 -24092 -0.7330359701772413 0 2 3\n\"\"\n10855.0 1957.0 -94 70 200 0 -51965 79589 2.251470411328395 0 3 1\n\"\"\n11933.0 2439.0 136 74 0 0 -88212 4096 3.124141632859199 0 1 4\n\"\"\n2:68 1:79\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 moves towards (40006, -23987) at power 200\n",
+            "stdout": "-4972 36639 SHIELD\n40006 -23987 200\n",
+            "view": " 125\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24981, 95315) at power 200\nPod 2 of player $1 moves towards (-83697, -26798) at power 0\n",
+            "stdout": "-24981 95315 200\n-83697 -26798 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 126\n11959.0 375.0 22 -10 0 0 -4972 36639 2.007115379783653 1 3 2\n\"\"\n10317.0 2924.0 -59 268 200 0 40006 -23987 -0.7330473855029567 0 2 3\n\"\"\n10808.0 2023.0 50 -88 200 0 -24981 95315 1.937311145969416 0 3 1\n\"\"\n12069.0 2513.0 115 62 0 0 -83697 -26798 -2.8448869204774074 0 1 4\n\"\"\n2:67 1:78\n25 0.4710738581383565 2 10777 2078 1 10354 2757 425.3215914677405 -6 106\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (30316, -31717) at power 200\n",
+            "stdout": "-15320 29629 0\n30316 -31717 200\n",
+            "view": " 127\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-25028, 95381) at power 200\nPod 2 of player $1 moves towards (-83561, -26724) at power 0\n",
+            "stdout": "-25028 95381 200\n-83561 -26724 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 128\n11981.0 365.0 18 -8 0 0 -15320 29629 2.3212733449111007 0 3 2\n\"\"\n10358.0 3019.0 34 80 200 0 30316 -31717 -1.047206650861936 0 2 3\n\"\"\n10786.0 2122.0 -18 83 200 0 -25028 95381 1.93730820099314 0 3 1\n\"\"\n12184.0 2575.0 97 52 0 0 -83561 -26724 -2.8448869204774074 0 1 4\n\"\"\n2:66 1:77\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (30357, -31622) at power 200\n",
+            "stdout": "-23003 19757 0\n30357 -31622 200\n",
+            "view": " 129\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-25050, 95480) at power 200\nPod 2 of player $1 moves towards (-87800, 4320) at power 0\n",
+            "stdout": "-25050 95480 200\n-87800 4320 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 130\n11999.0 357.0 15 -6 0 0 -23003 19757 2.63543261027008 0 3 2\n\"\"\n10399.0 3135.0 -32 248 200 0 30357 -31622 -1.047219000215083 0 2 3\n\"\"\n10790.0 2183.0 69 -98 200 0 -25050 95480 1.93730820099314 0 3 1\n\"\"\n12281.0 2627.0 82 44 0 0 -87800 4320 3.124141632859199 0 1 4\n\"\"\n2:65 1:76\n26 0.4580442230936419 2 10745 2246 1 10419 2976 422.5340549832076 22 88\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (30398, -31506) at power 200\n",
+            "stdout": "-15280 29611 0\n30398 -31506 200\n",
+            "view": " 131\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-25046, 95541) at power 200\nPod 2 of player $1 moves towards (-87703, 4372) at power 0\n",
+            "stdout": "-25046 95541 200\n-87703 4372 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 132\n12014.0 351.0 12 -5 0 0 -15280 29611 2.3212733449111007 0 3 2\n\"\"\n10467.0 3210.0 57 63 200 0 30398 -31506 -1.047219000215083 0 2 3\n\"\"\n10787.0 2272.0 -2 75 200 0 -25046 95541 1.93730820099314 0 3 1\n\"\"\n12363.0 2671.0 69 37 0 0 -87703 4372 3.124141632859199 0 1 4\n\"\"\n2:64 1:75\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-4890, 36603) at power 200\nPod 2 of player $0 moves towards (18783, -35915) at power 200\n",
+            "stdout": "-4890 36603 200\n18783 -35915 200\n",
+            "view": " 133\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (5553, 102134) at power 200\nPod 2 of player $1 moves towards (-83267, -26566) at power 0\n",
+            "stdout": "5553 102134 200\n-83267 -26566 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 134\n11941.0 527.0 -61 149 200 0 -4890 36603 2.007115379783653 0 3 2\n\"\"\n10488.0 3294.0 -36 224 200 0 18783 -35915 -1.361363553109438 0 2 3\n\"\"\n10852.0 2330.0 109 -103 200 0 5553 102134 1.6231607416226945 0 3 1\n\"\"\n12432.0 2708.0 58 31 0 0 -83267 -26566 -2.8448869204774074 0 1 4\n\"\"\n2:63 1:74\n27 0.4536666978210363 2 10781 2397 1 10512 3150 420.94989908843695 43 71\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (7066, 40228) at power 0\nPod 2 of player $0 moves towards (18804, -35831) at power 200\n",
+            "stdout": "7066 40228 0\n18804 -35831 200\n",
+            "view": " 135\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24984, 95688) at power 200\nPod 2 of player $1 moves towards (-87552, 4453) at power 200\n",
+            "stdout": "-24984 95688 200\n-87552 4453 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 136\n11880.0 676.0 -51 126 0 0 7066 40228 1.692977566768934 0 3 2\n\"\"\n10494.0 3322.0 4 24 200 0 18804 -35831 -1.361363553109438 0 2 3\n\"\"\n10889.0 2414.0 31 71 200 0 -24984 95688 1.93730820099314 0 3 1\n\"\"\n12290.0 2742.0 -120 29 200 0 -87552 4453 3.124141632859199 0 1 4\n\"\"\n2:62 1:73\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (7005, 40377) at power 200\nPod 2 of player $0 moves towards (18810, -35803) at power 200\n",
+            "stdout": "7005 40377 200\n18810 -35803 200\n",
+            "view": " 137\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24947, 95772) at power 200\nPod 2 of player $1 moves towards (-82261, 35298) at power 0\n",
+            "stdout": "-24947 95772 200\n-82261 35298 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 138\n11805.0 1001.0 -64 275 200 0 7005 40377 1.692977566768934 0 3 2\n\"\"\n10435.0 3360.0 -121 175 200 0 18810 -35803 -1.361363553109438 0 2 3\n\"\"\n10953.0 2462.0 125 -102 200 0 -24947 95772 1.93730820099314 0 3 1\n\"\"\n12170.0 2771.0 -102 24 0 0 -82261 35298 2.80998501401248 0 1 4\n\"\"\n2:61 1:72\n28 0.4467435770027978 2 10871 2529 1 10514 3245 422.8012500343036 2 43\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-5099, 37253) at power 0\nPod 2 of player $0 moves towards (30434, -31281) at power 200\n",
+            "stdout": "-5099 37253 0\n30434 -31281 200\n",
+            "view": " 139\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (5719, 102324) at power 200\nPod 2 of player $1 moves towards (-82381, 35327) at power 0\n",
+            "stdout": "5719 102324 200\n-82381 35327 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 140\n11741.0 1276.0 -54 233 0 0 -5099 37253 2.007115379783653 0 3 2\n\"\"\n10414.0 3362.0 -17 1 200 0 30434 -31281 -1.047219000215083 0 2 3\n\"\"\n11068.0 2560.0 97 83 200 0 5719 102324 1.6231607416226945 0 3 1\n\"\"\n12068.0 2795.0 -86 20 0 0 -82381 35327 2.80998501401248 0 1 4\n\"\"\n2:60 1:71\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-5163, 37528) at power 200\nPod 2 of player $0 moves towards (40139, -23403) at power 200\n",
+            "stdout": "-5163 37528 200\n40139 -23403 200\n",
+            "view": " 141\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (5834, 102422) at power 200\nPod 2 of player $1 moves towards (-82483, 35351) at power 200\n",
+            "stdout": "5834 102422 200\n-82483 35351 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 142\n11602.0 1690.0 -117 352 200 0 -5163 37528 2.007115379783653 0 3 2\n\"\"\n10402.0 3358.0 -240 203 200 0 40139 -23403 -0.7330597348561037 0 2 3\n\"\"\n11136.0 2690.0 100 -125 200 0 5834 102422 1.6231607416226945 0 3 1\n\"\"\n11954.0 2905.0 91 122 200 0 -82483 35351 2.80998501401248 0 1 4\n\"\"\n2:59 1:70\n29 0.5783682960100214 3 11909 2844 2 11118 2724 387.3123349406293 -94 184\n31 0.6545920215283618 2 11095 2741 1 10500 3275 557.0328588506093 -82 46\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-15677, 30944) at power 0\nPod 2 of player $0 moves towards (46943, -12911) at power 200\n",
+            "stdout": "-15677 30944 0\n46943 -12911 200\n",
+            "view": " 143\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24700, 96048) at power 200\nPod 2 of player $1 moves towards (-88030, 4650) at power 200\n",
+            "stdout": "-24700 96048 200\n-88030 4650 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 144\n11486.0 2040.0 25 96 0 0 -15677 30944 2.3212733449111007 0 3 2\n\"\"\n10345.0 3480.0 -48 103 200 0 46943 -12911 -0.41890046949712434 0 2 3\n\"\"\n11063.0 2722.0 -243 209 200 0 -24700 96048 1.93730820099314 0 3 1\n\"\"\n11946.0 3062.0 49 151 200 0 -88030 4650 3.124141632859199 0 1 4\n\"\"\n2:58 1:69\n32 0.4007687263306937 3 11910 2955 2 11147 2715 175.88328722021214 -40 94\n34 0.9935554876888655 2 11065 2720 0 11486 2040 279.9993528068566 -128 180\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-5418, 38292) at power 0\nPod 2 of player $0 moves towards (46886, -12789) at power 200\n",
+            "stdout": "-5418 38292 0\n46886 -12789 200\n",
+            "view": " 145\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24773, 96080) at power 200\nPod 2 of player $1 moves towards (-88038, 4807) at power 0\n",
+            "stdout": "-24773 96080 200\n-88038 4807 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 146\n11511.0 2136.0 21 81 0 0 -5418 38292 2.007115379783653 0 3 2\n\"\"\n10259.0 3753.0 -210 386 200 0 46886 -12789 -0.41887670481826206 0 2 3\n\"\"\n10969.0 2867.0 57 -32 200 0 -24773 96080 1.93730820099314 0 3 1\n\"\"\n11995.0 3213.0 41 128 0 0 -88038 4807 3.124141632859199 0 1 4\n\"\"\n2:57 1:68\n35 0.42128536645998166 2 10930 2889 1 10402 3489 577.7154953834358 -90 209\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-15768, 31390) at power 200\nPod 2 of player $0 moves towards (39984, -23012) at power 200\n",
+            "stdout": "-15768 31390 200\n39984 -23012 200\n",
+            "view": " 147\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24867, 96225) at power 200\nPod 2 of player $1 moves towards (-87989, 4958) at power 200\n",
+            "stdout": "-24867 96225 200\n-87989 4958 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 148\n11402.0 2354.0 -13 67 200 0 -15768 31390 2.3212733449111007 0 3 2\n\"\"\n10198.0 4005.0 -52 214 200 0 39984 -23012 -0.7330359701772413 0 2 3\n\"\"\n10948.0 3031.0 -97 257 200 0 -24867 96225 1.93730820099314 0 3 1\n\"\"\n11836.0 3344.0 -135 111 200 0 -87989 4958 3.124141632859199 0 1 4\n\"\"\n2:56 1:67\n36 0.9367466974740004 2 10955 3012 0 11403 2349 178.2477468897751 -65 191\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-15877, 31608) at power 200\nPod 2 of player $0 moves towards (46739, -12264) at power 200\n",
+            "stdout": "-15877 31608 200\n46739 -12264 200\n",
+            "view": " 149\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (5714, 102893) at power 200\nPod 2 of player $1 moves towards (-83794, -25893) at power 200\n",
+            "stdout": "5714 102893 200\n-83794 -25893 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 150\n11253.0 2567.0 -126 181 200 0 -15877 31608 2.3212733449111007 0 3 2\n\"\"\n10311.0 4169.0 -98 479 200 0 46739 -12264 -0.41887670481826206 0 2 3\n\"\"\n10706.0 3432.0 -118 -18 200 0 5714 102893 1.6231607416226945 0 0 1\n\"\"\n11662.0 3422.0 -40 83 200 0 -83794 -25893 -2.8448869204774074 0 1 4\n\"\"\n2:55 1:100\n37 0.45125947092136165 3 11689 3368 2 10900 3237 281.8437704452443 -217 255\n38 0.9285484178067926 2 10715 3433 1 10319 4128 497.20018971120265 -127 272\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (-5651, 38819) at power 200\nPod 2 of player $0 moves towards (40036, -22596) at power 200\n",
+            "stdout": "-5651 38819 200\n40036 -22596 200\n",
+            "view": " 151\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (36587, 100024) at power 200\nPod 2 of player $1 moves towards (-70253, -53935) at power 0\n",
+            "stdout": "36587 100024 200\n-70253 -53935 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 152\n11048.0 2919.0 -75 134 200 0 -5651 38819 2.007115379783653 0 3 2\n\"\"\n10362.0 4514.0 43 293 200 0 40036 -22596 -0.7330359701772413 0 2 3\n\"\"\n10634.0 3617.0 -159 322 200 0 36587 100024 1.3090041679969067 0 0 1\n\"\"\n11622.0 3505.0 -34 70 0 0 -70253 -53935 -2.530731515207901 0 1 4\n\"\"\n2:54 1:99\n39 0.9510451229587285 2 10643 3599 0 11053 2912 237.2885651962927 -138 269\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (6173, 42620) at power 200\nPod 2 of player $0 moves towards (30361, -30127) at power 200\n",
+            "stdout": "6173 42620 200\n30361 -30127 200\n",
+            "view": " 153\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (65097, 87484) at power 200\nPod 2 of player $1 moves towards (-84008, -25732) at power 0\n",
+            "stdout": "65097 87484 200\n-84008 -25732 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 154\n10865.0 3062.0 -130 -2 200 0 6173 42620 1.692977566768934 0 3 2\n\"\"\n10435.0 4895.0 31 436 200 0 30361 -30127 -1.0471952355362206 0 2 3\n\"\"\n10622.0 3927.0 -22 258 200 0 65097 87484 0.9948449417519313 0 0 1\n\"\"\n11704.0 3683.0 86 167 0 0 -84008 -25732 -2.8448869204774074 0 1 4\n\"\"\n2:53 1:98\n40 0.14823152126449035 3 11617 3515 0 11033 2968 185.91027619376257 -67 201\n42 0.33594988644525625 2 10617 3782 1 10410 4554 407.31512811698286 46 305\n43 0.6106436348275176 2 10632 3808 0 10925 3063 223.7995254889025 -90 151\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (18497, 42327) at power 200\nPod 2 of player $0 moves towards (18751, -34230) at power 200\n",
+            "stdout": "18497 42327 200\n18751 -34230 200\n",
+            "view": " 155\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (36503, 100519) at power 200\nPod 2 of player $1 moves towards (-88280, 5428) at power 200\n",
+            "stdout": "36503 100519 200\n-88280 5428 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 156\n10773.0 3256.0 -78 165 200 0 18497 42327 1.3788185225926806 0 0 2\n\"\"\n10502.0 5166.0 25 394 200 0 18751 -34230 -1.3613545008952 0 2 3\n\"\"\n10658.0 4348.0 61 193 200 0 36503 100519 1.3090041679969067 0 0 1\n\"\"\n11590.0 3853.0 -96 144 200 0 -88280 5428 3.124141632859199 0 1 4\n\"\"\n2:100 1:97\n44 0.8642045717297494 2 10648 4317 1 10498 5103 227.55243963088955 51 346\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (30165, 38240) at power 200\nPod 2 of player $0 moves towards (6320, -34614) at power 200\n",
+            "stdout": "30165 38240 200\n6320 -34614 200\n",
+            "view": " 157\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (36539, 100940) at power 200\nPod 2 of player $1 moves towards (-84040, -25384) at power 200\n",
+            "stdout": "36539 100940 200\n-84040 -25384 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 158\n10641.0 3489.0 -259 94 200 0 30165 38240 1.0646592572337013 0 0 2\n\"\"\n10470.0 5518.0 -34 332 200 0 6320 -34614 -1.6755137662541792 0 2 3\n\"\"\n10807.0 4577.0 133 161 200 0 36539 100940 1.3090041679969067 0 0 1\n\"\"\n11454.0 4045.0 31 267 200 0 -84040 -25384 -2.8448869204774074 0 1 4\n\"\"\n2:99 1:96\n46 0.1986478757583063 2 10680 4425 1 10503 5205 201.09998375925073 58 291\n47 0.5335170231648685 3 11437 3899 0 10783 3437 396.87723450625055 -134 213\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39895, 30768) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "39895 30768 200\n18786 -33607 SHIELD\n",
+            "view": " 159\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (5573, 104439) at power 200\nPod 2 of player $1 moves towards (-88530, 5790) at power 200\n",
+            "stdout": "5573 104439 200\n-88530 5790 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 160\n10528.0 3719.0 -95 195 200 0 39895 30768 0.7504999918747219 0 0 2\n\"\"\n10436.0 5850.0 -28 282 0 0 18786 -33607 -1.361363553109438 1 2 3\n\"\"\n10823.0 5040.0 -14 420 200 0 5573 104439 1.6231607416226945 0 1 1\n\"\"\n11392.0 4213.0 -24 115 200 0 -88530 5790 3.124141632859199 0 1 4\n\"\"\n2:98 1:100\n48 0.23793142381440907 3 11414 4109 2 10836 4663 194.025529718124 -23 316\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46780, 20623) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46780 20623 200\n6254 -33930 0\n",
+            "view": " 161\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-25013, 98398) at power 200\nPod 2 of player $1 moves towards (-84238, -25024) at power 200\n",
+            "stdout": "-25013 98398 200\n-84238 -25024 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 162\n10459.0 3916.0 -204 89 200 0 46780 20623 0.4363407265157426 0 0 2\n\"\"\n10308.0 6325.0 -147 476 0 0 6254 -33930 -1.6755228184684172 0 2 3\n\"\"\n10838.0 5454.0 50 278 200 0 -25013 98398 1.93730820099314 0 1 1\n\"\"\n11332.0 4353.0 95 196 200 0 -84238 -25024 -2.8448869204774074 0 1 4\n\"\"\n2:97 1:99\n50 0.30882978899715785 2 10797 5227 1 10427 5937 314.68640947885507 -57 444\n51 0.5251459344964838 3 11279 4243 0 10573 3866 371.02233966751913 -65 168\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46711, 20820) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46711 20820 200\n-5961 -30216 0\n",
+            "view": " 163\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24998, 98812) at power 200\nPod 2 of player $1 moves towards (-84298, -24884) at power 200\n",
+            "stdout": "-24998 98812 200\n-84298 -24884 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 164\n10436.0 4090.0 -19 147 200 0 46711 20820 0.4363190529887563 0 0 2\n\"\"\n10161.0 6801.0 -124 404 0 0 -5961 -30216 -1.9896730316131588 0 2 3\n\"\"\n10816.0 5919.0 -18 395 200 0 -24998 98812 1.93730820099314 0 1 1\n\"\"\n11236.0 4491.0 -81 116 200 0 -84298 -24884 -2.8448869204774074 0 1 4\n\"\"\n2:96 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39690, 31369) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "39690 31369 200\n5979 -32979 SHIELD\n",
+            "view": " 165\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-52115, 83633) at power 0\nPod 2 of player $1 moves towards (-84394, -24746) at power 200\n",
+            "stdout": "-52115 83633 0\n-84394 -24746 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 166\n10237.0 4212.0 -241 68 200 0 39690 31369 0.750477018116204 0 0 2\n\"\"\n10037.0 7205.0 -105 343 0 0 5979 -32979 -1.675539789818502 1 2 3\n\"\"\n10798.0 6314.0 -15 335 0 0 -52115 83633 2.2514674663521195 0 1 1\n\"\"\n11290.0 4709.0 117 221 200 0 -84394 -24746 -2.8448869204774074 0 1 4\n\"\"\n2:95 1:97\n52 0.2070047638082407 3 11180 4503 0 10462 4149 458.246235264668 -72 170\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46489, 21116) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "46489 21116 200\n-6232 -29336 SHIELD\n",
+            "view": " 167\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-73069, 60777) at power 0\nPod 2 of player $1 moves towards (-84340, -24528) at power 200\n",
+            "stdout": "-73069 60777 0\n-84340 -24528 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 168\n10177.0 4365.0 -50 129 200 0 46489 21116 0.4363190529887563 0 0 2\n\"\"\n9932.0 7548.0 -89 291 0 0 -6232 -29336 -1.9896730316131588 1 2 3\n\"\"\n10783.0 6649.0 -12 284 0 0 -73069 60777 2.565626731711099 0 1 1\n\"\"\n11216.0 4872.0 -63 138 200 0 -84340 -24528 -2.8448869204774074 0 1 4\n\"\"\n2:94 1:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46429, 21269) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "46429 21269 200\n5750 -32232 SHIELD\n",
+            "view": " 169\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-85809, 32530) at power 0\nPod 2 of player $1 moves towards (-70699, -52485) at power 200\n",
+            "stdout": "-85809 32530 0\n-70699 -52485 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 170\n10264.0 4558.0 -200 35 200 0 46429 21269 0.4363190529887563 0 0 2\n\"\"\n9843.0 7839.0 -75 247 0 0 5750 -32232 -1.675539789818502 1 2 3\n\"\"\n10771.0 6933.0 -10 241 0 0 -85809 32530 2.879785997070078 0 1 1\n\"\"\n11034.0 4916.0 118 166 200 0 -70699 -52485 -2.530731515207901 0 1 4\n\"\"\n2:93 1:95\n53 0.8789532494970069 3 11017 4892 0 10292 4553 404.9883730450368 -48 118\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46516, 21462) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46516 21462 200\n-6426 -28702 0\n",
+            "view": " 171\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-89091, 1699) at power 200\nPod 2 of player $1 moves towards (-84596, -24321) at power 200\n",
+            "stdout": "-89091 1699 200\n-84596 -24321 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 172\n10232.0 4671.0 -128 47 200 0 46516 21462 0.4363190529887563 0 0 2\n\"\"\n9768.0 8086.0 -63 209 0 0 -6426 -28702 -1.9896730316131588 0 2 3\n\"\"\n10561.0 7164.0 -178 195 200 0 -89091 1699 3.1939452624290574 0 1 1\n\"\"\n10974.0 5030.0 50 145 200 0 -84596 -24321 -2.8448869204774074 0 1 4\n\"\"\n2:92 1:94\n54 0.9033225555191378 3 10968 5013 0 10247 4666 147.16387872632293 -46 114\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46484, 21575) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46484 21575 200\n-16997 -21639 0\n",
+            "view": " 173\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-89301, 1930) at power 200\nPod 2 of player $1 moves towards (-70941, -52327) at power 200\n",
+            "stdout": "-89301 1930 200\n-70941 -52327 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 174\n10114.0 4720.0 -121 31 200 0 46484 21575 0.4363190529887563 0 0 2\n\"\"\n9705.0 8295.0 -53 177 0 0 -16997 -21639 -2.3038322969721383 0 2 3\n\"\"\n10183.0 7349.0 -321 156 200 0 -89301 1930 -3.0892282387619954 0 1 1\n\"\"\n11032.0 5143.0 69 105 200 0 -70941 -52327 -2.530731515207901 0 1 4\n\"\"\n2:91 1:93\n55 0.12487019746724974 3 10960 5034 0 10239 4687 217.22558103407306 -30 81\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46366, 21624) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46366 21624 200\n-24936 -11704 0\n",
+            "view": " 175\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-83175, -28487) at power 200\nPod 2 of player $1 moves towards (-84598, -24094) at power 200\n",
+            "stdout": "-83175 -28487 200\n-84598 -24094 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 176\n10174.0 4836.0 51 98 200 0 46366 21624 0.4363190529887563 0 0 2\n\"\"\n9652.0 8472.0 -45 150 0 0 -24936 -11704 -2.6179915623311176 0 2 3\n\"\"\n9675.0 7433.0 -431 71 200 0 -83175 -28487 -2.77508077939155 0 1 1\n\"\"\n10910.0 5190.0 -103 39 200 0 -84598 -24094 -2.8448869204774074 0 1 4\n\"\"\n2:90 1:92\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49875, 9710) at power 200\nPod 2 of player $0 moves towards (-17113, -21253) at power 200\n",
+            "stdout": "49875 9710 200\n-17113 -21253 200\n",
+            "view": " 177\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-68039, -55498) at power 200\nPod 2 of player $1 moves towards (-71005, -52167) at power 200\n",
+            "stdout": "-68039 -55498 200\n-71005 -52167 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 178\n9942.0 4726.0 -209 -99 200 0 49875 9710 0.12215978762977697 0 0 2\n\"\"\n9473.0 8473.0 -152 1 200 0 -17113 -21253 -2.3038437122978532 0 2 3\n\"\"\n9089.0 7378.0 -498 -46 200 0 -68039 -55498 -2.4609215140325706 0 1 1\n\"\"\n11124.0 5347.0 194 139 200 0 -71005 -52167 -2.530731515207901 0 1 4\n\"\"\n2:89 1:91\n56 0.03031561342041037 3 10902 5188 0 10182 4840 551.0963221603593 -9 23\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49643, 9600) at power 200\nPod 2 of player $0 moves towards (-6796, -28068) at power 200\n",
+            "stdout": "49643 9600 200\n-6796 -28068 200\n",
+            "view": " 179\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-68625, -55553) at power 200\nPod 2 of player $1 moves towards (-70791, -52010) at power 200\n",
+            "stdout": "-68625 -55553 200\n-70791 -52010 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 180\n9932.0 4651.0 -8 -63 200 0 49643 9600 0.12215642576576252 0 0 2\n\"\"\n9240.0 8291.0 -198 -154 200 0 -6796 -28068 -1.989684446938874 0 2 3\n\"\"\n8436.0 7206.0 -555 -146 200 0 -68625 -55553 -2.460918569056295 0 1 1\n\"\"\n11154.0 5371.0 25 20 200 0 -70791 -52010 -2.530731515207901 0 1 4\n\"\"\n2:88 1:90\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46184, 21555) at power 200\nPod 2 of player $0 moves towards (5058, -31489) at power 200\n",
+            "stdout": "46184 21555 200\n5058 -31489 200\n",
+            "view": " 181\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-46027, -76661) at power 200\nPod 2 of player $1 moves towards (-70761, -51986) at power 200\n",
+            "stdout": "-46027 -76661 200\n-70761 -51986 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 182\n10105.0 4673.0 147 18 200 0 46184 21555 0.43631569112474183 0 0 2\n\"\"\n9021.0 7938.0 -186 -299 200 0 5058 -31489 -1.675539789818502 0 2 3\n\"\"\n7772.0 6892.0 -564 -266 200 0 -46027 -76661 -2.1467593036973156 0 2 1\n\"\"\n11015.0 5276.0 -118 -80 200 0 -70761 -51986 -2.530731515207901 0 1 4\n\"\"\n2:87 1:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 moves towards (17337, -31187) at power 200\n",
+            "stdout": "39359 31952 SHIELD\n17337 -31187 200\n",
+            "view": " 183\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-18110, -89700) at power 200\nPod 2 of player $1 moves towards (-70900, -52081) at power 200\n",
+            "stdout": "-18110 -89700 200\n-70900 -52081 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 184\n10225.0 4672.0 66 -27 0 0 39359 31952 0.7504749564837212 1 0 2\n\"\"\n8877.0 7443.0 -122 -420 200 0 17337 -31187 -1.3613805244595227 0 2 3\n\"\"\n7156.0 6433.0 -523 -390 200 0 -18110 -89700 -1.8326000383383363 0 2 1\n\"\"\n10999.0 5276.0 349 264 200 0 -70900 -52081 -2.530731515207901 0 1 4\n\"\"\n2:86 1:99\n57 0.6158186631274701 3 10841 5156 0 10196 4684 857.7095730462332 -67 -88\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (28876, -27198) at power 200\n",
+            "stdout": "29617 39656 0\n28876 -27198 200\n",
+            "view": " 185\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (12389, -93429) at power 200\nPod 2 of player $1 moves towards (-70916, -52081) at power 200\n",
+            "stdout": "12389 -93429 200\n-70916 -52081 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 186\n10291.0 4645.0 56 -22 0 0 29617 39656 1.0646342218427005 0 0 2\n\"\"\n8855.0 6850.0 -18 -504 200 0 28876 -27198 -1.0472212591005434 0 2 3\n\"\"\n6643.0 5843.0 -435 -501 200 0 12389 -93429 -1.518441898358272 0 2 1\n\"\"\n11184.0 5425.0 157 126 200 0 -70916 -52081 -2.530731515207901 0 1 4\n\"\"\n2:85 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "39545 31924 0\n17171 -32275 SHIELD\n",
+            "view": " 187\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (11876, -94019) at power 200\nPod 2 of player $1 moves towards (-70731, -51932) at power 200\n",
+            "stdout": "11876 -94019 200\n-70731 -51932 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 188\n10347.0 4623.0 47 -18 0 0 39545 31924 0.750477018116204 0 0 2\n\"\"\n8837.0 6346.0 -15 -428 0 0 17171 -32275 -1.361363553109438 1 2 3\n\"\"\n6218.0 5142.0 -360 -595 200 0 11876 -94019 -1.518441898358272 0 2 1\n\"\"\n11177.0 5436.0 -5 9 200 0 -70731 -51932 -2.530731515207901 0 1 4\n\"\"\n2:84 1:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "46599 21527 0\n4655 -33434 SHIELD\n",
+            "view": " 189\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (42054, -88216) at power 200\nPod 2 of player $1 moves towards (-49004, -74427) at power 200\n",
+            "stdout": "42054 -88216 200\n-49004 -74427 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 190\n10394.0 4605.0 39 -15 0 0 46599 21527 0.4363190529887563 0 0 2\n\"\"\n8822.0 5918.0 -12 -363 0 0 4655 -33434 -1.6755228184684172 1 2 3\n\"\"\n5930.0 4360.0 -245 -664 200 0 42054 -88216 -1.2042844525966534 0 2 1\n\"\"\n11052.0 5285.0 -106 -128 200 0 -49004 -74427 -2.2165722498489218 0 1 4\n\"\"\n2:83 1:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39648, 31884) at power 0\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "39648 31884 0\n17138 -33207 0\n",
+            "view": " 191\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (68861, -73354) at power 0\nPod 2 of player $1 moves towards (-49129, -74578) at power 200\n",
+            "stdout": "68861 -73354 0\n-49129 -74578 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 192\n10270.0 4422.0 -191 -245 0 0 39648 31884 0.750477018116204 0 0 2\n\"\"\n8810.0 5555.0 -10 -308 0 0 17138 -33207 -1.361363553109438 0 2 3\n\"\"\n5685.0 3696.0 -208 -564 0 0 68861 -73354 -0.8901251872376741 0 2 1\n\"\"\n10988.0 5166.0 32 -12 200 0 -49129 -74578 -2.2165674543892755 0 1 4\n\"\"\n2:82 1:95\n58 0.3843065983549966 3 10965 5174 0 10409 4599 380.52075453366535 -94 -151\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (29662, 39406) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "29662 39406 200\n28809 -29086 SHIELD\n",
+            "view": " 193\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (89552, -50767) at power 0\nPod 2 of player $1 moves towards (-49193, -74697) at power 0\n",
+            "stdout": "89552 -50767 0\n-49193 -74697 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 194\n10176.0 4352.0 -79 -59 200 0 29662 39406 1.0646362834751835 0 0 2\n\"\"\n8800.0 5247.0 -8 -261 0 0 28809 -29086 -1.047219000215083 1 2 3\n\"\"\n5477.0 3132.0 -176 -479 0 0 89552 -50767 -0.5759659218786948 0 3 1\n\"\"\n11020.0 5154.0 27 -10 0 0 -49193 -74697 -2.2165674543892755 0 1 4\n\"\"\n2:81 1:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (29568, 39336) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "29568 39336 200\n17116 -33878 0\n",
+            "view": " 195\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (102069, -22750) at power 0\nPod 2 of player $1 moves towards (-70895, -52203) at power 0\n",
+            "stdout": "102069 -22750 0\n-70895 -52203 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 196\n10194.0 4468.0 15 98 200 0 29568 39336 1.0646497035378382 0 0 2\n\"\"\n8792.0 4986.0 -6 -221 0 0 17116 -33878 -1.361363553109438 0 2 3\n\"\"\n5301.0 2653.0 -149 -407 0 0 102069 -22750 -0.26180665651971546 0 3 1\n\"\"\n11047.0 5144.0 22 -8 0 0 -70895 -52203 -2.530726719748255 0 1 4\n\"\"\n2:80 1:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39448, 31747) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "39448 31747 200\n4610 -34794 SHIELD\n",
+            "view": " 197\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (105163, 7886) at power 200\nPod 2 of player $1 moves towards (-84583, -24093) at power 200\n",
+            "stdout": "105163 7886 200\n-84583 -24093 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 198\n10230.0 4608.0 -165 -28 200 0 39448 31747 0.7504904381788589 0 0 2\n\"\"\n8786.0 4765.0 -5 -187 0 0 4610 -34794 -1.6755228184684172 1 2 3\n\"\"\n5352.0 2256.0 43 -337 200 0 105163 7886 0.05235260883926385 0 3 1\n\"\"\n11003.0 5172.0 158 171 200 0 -84583 -24093 -2.844885985107234 0 1 4\n\"\"\n2:79 1:98\n59 0.6472674377590124 3 10937 5101 0 10298 4620 445.0320814354418 -4 84\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46482, 21512) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46482 21512 200\n-7483 -31776 0\n",
+            "view": " 199\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (98710, 38092) at power 200\nPod 2 of player $1 moves towards (-70912, -52185) at power 200\n",
+            "stdout": "98710 38092 200\n-70912 -52185 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 200\n10246.0 4665.0 13 48 200 0 46482 21512 0.43633117281987954 0 0 2\n\"\"\n8781.0 4578.0 -4 -158 0 0 -7483 -31776 -1.9896730316131588 0 2 3\n\"\"\n5582.0 1991.0 195 -225 200 0 98710 38092 0.36651187419824316 0 3 1\n\"\"\n10997.0 5228.0 -4 47 200 0 -70912 -52185 -2.530731515207901 0 1 4\n\"\"\n2:78 1:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39500, 31944) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "39500 31944 200\n4599 -35202 0\n",
+            "view": " 201\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (98940, 37827) at power 200\nPod 2 of player $1 moves towards (-70918, -52129) at power 200\n",
+            "stdout": "98940 37827 200\n-70918 -52129 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 202\n10185.0 4685.0 -145 -53 200 0 39500 31944 0.750477018116204 0 0 2\n\"\"\n8777.0 4420.0 -3 -134 0 0 4599 -35202 -1.675539789818502 0 2 3\n\"\"\n5964.0 1838.0 324 -130 200 0 98940 37827 0.3665118741982433 0 3 1\n\"\"\n11049.0 5324.0 138 152 200 0 -70918 -52129 -2.530731515207901 0 1 4\n\"\"\n2:77 1:96\n60 0.33563989454116583 3 10941 5205 0 10299 4727 412.935144293462 -4 58\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46437, 21589) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46437 21589 200\n17093 -34705 0\n",
+            "view": " 203\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (83678, 64770) at power 0\nPod 2 of player $1 moves towards (-70866, -52033) at power 200\n",
+            "stdout": "83678 64770 0\n-70866 -52033 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 204\n10221.0 4717.0 30 26 200 0 46437 21589 0.4363190529887563 0 0 2\n\"\"\n8774.0 4286.0 -2 -113 0 0 17093 -34705 -1.3613805244595227 0 2 3\n\"\"\n6288.0 1708.0 275 -110 0 0 83678 64770 0.6806711395572227 0 3 1\n\"\"\n11023.0 5361.0 -21 31 200 0 -70866 -52033 -2.530731515207901 0 1 4\n\"\"\n2:76 1:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39475, 31996) at power 200\nPod 2 of player $0 moves towards (4592, -35494) at power 200\n",
+            "stdout": "39475 31996 200\n4592 -35494 200\n",
+            "view": " 205\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (60751, 85575) at power 0\nPod 2 of player $1 moves towards (-49158, -74502) at power 200\n",
+            "stdout": "60751 85575 0\n-49158 -74502 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 206\n10238.0 4757.0 -138 -85 200 0 39475 31996 0.750477018116204 0 0 2\n\"\"\n8751.0 3974.0 -19 -265 200 0 4592 -35494 -1.675539789818502 0 2 3\n\"\"\n6563.0 1598.0 233 -93 0 0 60751 85575 0.994830404916202 0 3 1\n\"\"\n11041.0 5355.0 168 113 200 0 -49158 -74502 -2.2165722498489218 0 1 4\n\"\"\n2:75 1:94\n61 0.5319292029875502 3 10948 5293 0 10315 4803 429.3471608836246 17 17\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46490, 21661) at power 200\nPod 2 of player $0 moves towards (-7518, -32567) at power 200\n",
+            "stdout": "46490 21661 200\n-7518 -32567 200\n",
+            "view": " 207\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (32444, 98190) at power 200\nPod 2 of player $1 moves towards (-70874, -52002) at power 200\n",
+            "stdout": "32444 98190 200\n-70874 -52002 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 208\n10281.0 4757.0 36 0 200 0 46490 21661 0.4363190529887563 0 0 2\n\"\"\n8651.0 3526.0 -85 -380 200 0 -7518 -32567 -1.9896730316131588 0 2 3\n\"\"\n6848.0 1698.0 242 85 200 0 32444 98190 1.3089896702751813 0 3 1\n\"\"\n11045.0 5353.0 3 -1 200 0 -70874 -52002 -2.530731515207901 0 1 4\n\"\"\n2:74 1:93\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39535, 32036) at power 200\nPod 2 of player $0 moves towards (-18114, -26199) at power 200\n",
+            "stdout": "39535 32036 200\n-18114 -26199 200\n",
+            "view": " 209\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (1614, 101560) at power 200\nPod 2 of player $1 moves towards (-49136, -74510) at power 200\n",
+            "stdout": "1614 101560 200\n-49136 -74510 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 210\n10263.0 4745.0 -130 -95 200 0 39535 32036 0.750477018116204 0 0 2\n\"\"\n8432.0 2997.0 -186 -449 200 0 -18114 -26199 -2.3038322969721383 0 2 3\n\"\"\n7080.0 1983.0 196 242 200 0 1614 101560 1.6231489356341606 0 3 1\n\"\"\n11128.0 5340.0 185 74 200 0 -49136 -74510 -2.2165722498489218 0 1 4\n\"\"\n2:73 1:92\n62 0.40388085580394634 3 10998 5288 0 10355 4812 417.6140740449654 32 -12\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (29655, 39729) at power 200\nPod 2 of player $0 moves towards (-26209, -17002) at power 200\n",
+            "stdout": "29655 39729 200\n-26209 -17002 200\n",
+            "view": " 211\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (32961, 98575) at power 200\nPod 2 of player $1 moves towards (-70787, -52017) at power 200\n",
+            "stdout": "32961 98575 200\n-70787 -52017 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 212\n10230.0 4825.0 -28 67 200 0 29655 39729 1.0646362834751835 0 0 2\n\"\"\n8130.0 2456.0 312 -383 200 0 -26209 -17002 -2.6179915623311176 0 2 3\n\"\"\n7271.0 2410.0 -407 286 200 0 32961 98575 1.3090041679969067 0 3 1\n\"\"\n11149.0 5299.0 17 -34 200 0 -70787 -52017 -2.530731515207901 0 1 4\n\"\"\n2:72 1:91\n63 0.9213343139671576 2 7308 2384 1 8101 2491 733.4144219273746 -56 -57\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (39484, 32104) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "39484 32104 200\n-30995 -5860 SHIELD\n",
+            "view": " 213\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (61734, 86277) at power 0\nPod 2 of player $1 moves towards (-84481, -23938) at power 200\n",
+            "stdout": "61734 86277 0\n-84481 -23938 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 214\n10207.0 4972.0 -200 52 200 0 39484 32104 0.7504770181162042 0 0 2\n\"\"\n8442.0 2073.0 265 -325 0 0 -30995 -5860 -2.932150827690097 1 2 3\n\"\"\n6864.0 2696.0 -345 243 0 0 61734 86277 0.9948449417519313 0 3 1\n\"\"\n11116.0 5263.0 152 41 200 0 -84481 -23938 -2.8448869204774074 0 1 4\n\"\"\n2:71 1:90\n64 0.6010827629241866 3 11044 5243 0 10301 4947 381.2807585387384 -28 55\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46459, 21876) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "46459 21876 200\n-31338 6254 SHIELD\n",
+            "view": " 215\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (84578, 65628) at power 200\nPod 2 of player $1 moves towards (-84514, -23974) at power 200\n",
+            "stdout": "84578 65628 200\n-84514 -23974 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 216\n10188.0 5109.0 -15 116 200 0 46459 21876 0.4363190529887563 0 0 2\n\"\"\n8707.0 1748.0 225 -276 0 0 -31338 6254 -3.2463100930490763 1 2 3\n\"\"\n6674.0 3065.0 -161 313 200 0 84578 65628 0.680685676392952 0 3 1\n\"\"\n11077.0 5246.0 -33 -14 200 0 -84514 -23974 -2.8448869204774074 0 1 4\n\"\"\n2:70 1:89\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49889, 9983) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "49889 9983 200\n-27834 18017 SHIELD\n",
+            "view": " 217\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (100032, 38901) at power 200\nPod 2 of player $1 moves towards (-88907, 6991) at power 200\n",
+            "stdout": "100032 38901 200\n-88907 6991 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 218\n10041.0 5207.0 -208 72 200 0 49889 9983 0.12215978762977697 0 0 2\n\"\"\n8932.0 1472.0 191 -234 0 0 -27834 18017 -3.5604693584080556 1 2 3\n\"\"\n6700.0 3450.0 21 326 200 0 100032 38901 0.36652641103397265 0 3 1\n\"\"\n11174.0 5278.0 166 38 200 0 -88907 6991 3.124141632859199 0 1 4\n\"\"\n2:69 1:88\n65 0.22948898333533616 3 11024 5244 0 10230 5141 432.36290272244054 -25 65\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49306, -2425) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "49306 -2425 200\n-20793 28237 0\n",
+            "view": " 219\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (106562, 8683) at power 200\nPod 2 of player $1 moves towards (-84456, -23959) at power 200\n",
+            "stdout": "106562 8683 200\n-84456 -23959 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 220\n10029.0 5241.0 -9 28 200 0 49306 -2425 -0.19197780420221602 0 0 2\n\"\"\n9123.0 1238.0 162 -198 0 0 -20793 28237 -3.874628623767035 0 2 3\n\"\"\n6921.0 3786.0 187 285 200 0 106562 8683 0.05236714567499334 0 3 1\n\"\"\n11149.0 5258.0 -21 -17 200 0 -84456 -23959 -2.8448869204774074 0 1 4\n\"\"\n2:68 1:87\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49730, 10115) at power 200\nPod 2 of player $0 enabled its shield\n",
+            "stdout": "49730 10115 200\n-27418 17507 SHIELD\n",
+            "view": " 221\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (103513, -22095) at power 200\nPod 2 of player $1 moves towards (-88835, 7003) at power 200\n",
+            "stdout": "103513 -22095 200\n-88835 7003 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 222\n10130.0 5297.0 -184 59 200 0 49730 10115 0.12215642576576252 0 0 2\n\"\"\n9285.0 1040.0 137 -168 0 0 -27418 17507 -3.5604693584080556 1 2 3\n\"\"\n7301.0 4019.0 323 198 200 0 103513 -22095 -0.26179211968398597 0 3 1\n\"\"\n11017.0 5241.0 158 -26 200 0 -88835 7003 3.124141632859199 0 1 4\n\"\"\n2:67 1:86\n66 0.7813875269551613 3 10976 5247 0 10177 5282 407.2584832356241 -16 19\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49395, -2335) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "49395 -2335 200\n-20440 27805 0\n",
+            "view": " 223\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (91167, -50445) at power 200\nPod 2 of player $1 moves towards (-88967, 6986) at power 200\n",
+            "stdout": "91167 -50445 200\n-88967 6986 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 224\n10142.0 5318.0 10 17 200 0 49395 -2335 -0.19197780420221602 0 0 2\n\"\"\n9422.0 872.0 116 -142 0 0 -20440 27805 -3.874628623767035 0 2 3\n\"\"\n7792.0 4108.0 417 75 200 0 91167 -50445 -0.5759513850429653 0 3 1\n\"\"\n10975.0 5218.0 -35 -19 200 0 -88967 6986 3.124141632859199 0 1 4\n\"\"\n2:66 1:85\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49843, 10192) at power 200\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "49843 10192 200\n-10578 35513 0\n",
+            "view": " 225\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (91658, -50356) at power 200\nPod 2 of player $1 moves towards (-89009, 6963) at power 200\n",
+            "stdout": "91658 -50356 200\n-89009 6963 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 226\n9961.0 5411.0 -186 83 200 0 49843 10192 0.12215642576576252 0 0 2\n\"\"\n9538.0 730.0 98 -120 0 0 -10578 35513 -4.188787889126014 0 2 3\n\"\"\n8377.0 4074.0 497 -28 200 0 91658 -50356 -0.5759652182329578 0 3 1\n\"\"\n11130.0 5151.0 164 -61 200 0 -89009 6963 3.124141632859199 0 1 4\n\"\"\n2:65 1:84\n67 0.09005328609345808 3 10954 5217 0 10161 5322 432.15953254488005 -13 13\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (46213, 22315) at power 0\nPod 2 of player $0 waits for its engine to reload\n",
+            "stdout": "46213 22315 0\n1221 39855 0\n",
+            "view": " 227\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (92243, -50390) at power 0\nPod 2 of player $1 moves towards (-83421, 37707) at power 200\n",
+            "stdout": "92243 -50390 0\n-83421 37707 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 228\n9775.0 5494.0 -158 70 0 0 46213 22315 0.43631569112474183 0 0 2\n\"\"\n9636.0 610.0 83 -102 0 0 1221 39855 1.7802535546783245 0 2 3\n\"\"\n8874.0 4046.0 422 -23 0 0 92243 -50390 -0.5759652182329578 0 3 1\n\"\"\n11105.0 5155.0 -21 3 200 0 -83421 37707 2.80998501401248 0 1 4\n\"\"\n2:64 1:83\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49476, 10368) at power 200\nPod 2 of player $0 moves towards (-10364, 35251) at power 0\n",
+            "stdout": "49476 10368 200\n-10364 35251 0\n",
+            "view": " 229\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (92740, -50418) at power 0\nPod 2 of player $1 moves towards (-83446, 37711) at power 200\n",
+            "stdout": "92740 -50418 0\n-83446 37711 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 230\n9816.0 5588.0 34 80 200 0 49476 10368 0.12215642576576252 0 0 2\n\"\"\n9719.0 508.0 70 -86 0 0 -10364 35251 2.0943953042854853 0 2 3\n\"\"\n9296.0 4023.0 358 -19 0 0 92740 -50418 -0.5759652182329578 0 3 1\n\"\"\n10895.0 5223.0 -178 57 200 0 -83446 37711 2.80998501401248 0 1 4\n\"\"\n2:63 1:82\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49081, -2044) at power 200\nPod 2 of player $0 moves towards (-20006, 27273) at power 0\n",
+            "stdout": "49081 -2044 200\n-20006 27273 0\n",
+            "view": " 231\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (93162, -50441) at power 0\nPod 2 of player $1 moves towards (-68968, 65404) at power 200\n",
+            "stdout": "93162 -50441 0\n-68968 65404 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 232\n9821.0 5716.0 -263 211 200 0 49081 -2044 -0.19197780420221602 0 0 2\n\"\"\n9789.0 422.0 59 -73 0 0 -20006 27273 2.4085452680868364 0 2 3\n\"\"\n9654.0 4004.0 304 -16 0 0 93162 -50441 -0.5759652182329578 0 3 1\n\"\"\n10782.0 5314.0 172 -25 200 0 -68968 65404 2.4958257486535005 0 1 4\n\"\"\n2:62 1:81\n68 0.5841141479341683 3 10698 5327 0 9951 5612 578.9782536958257 -54 110\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (44805, -13676) at power 200\nPod 2 of player $0 moves towards (-10211, 35063) at power 200\n",
+            "stdout": "44805 -13676 200\n-10211 35063 200\n",
+            "view": " 233\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (106246, -21878) at power 0\nPod 2 of player $1 moves towards (-83769, 37870) at power 200\n",
+            "stdout": "106246 -21878 0\n-83769 37870 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 234\n9733.0 5830.0 -74 96 200 0 44805 -13676 -0.5061370695611953 0 0 2\n\"\"\n9748.0 522.0 -34 85 200 0 -10211 35063 2.0943953042854853 0 2 3\n\"\"\n9958.0 3988.0 258 -13 0 0 106246 -21878 -0.26180595287397845 0 3 1\n\"\"\n10765.0 5354.0 -14 34 200 0 -83769 37870 2.80998501401248 0 1 4\n\"\"\n2:61 1:80\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (48998, -1802) at power 200\nPod 2 of player $0 moves towards (-19977, 27287) at power 0\n",
+            "stdout": "48998 -1802 200\n-19977 27287 0\n",
+            "view": " 235\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (109820, 9221) at power 0\nPod 2 of player $1 moves towards (-83786, 37910) at power 200\n",
+            "stdout": "109820 9221 0\n-83786 37910 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 236\n9855.0 5888.0 103 49 200 0 48998 -1802 -0.191977804202216 0 0 2\n\"\"\n9714.0 607.0 -28 72 0 0 -19977 27287 2.4085452680868364 0 2 3\n\"\"\n10216.0 3975.0 219 -11 0 0 109820 9221 0.05235331248500086 0 0 1\n\"\"\n10562.0 5453.0 -172 84 200 0 -83786 37910 2.80998501401248 0 1 4\n\"\"\n2:60 1:100\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 enabled its shield\nPod 2 of player $0 moves towards (-10286, 35248) at power 0\n",
+            "stdout": "44839 -13504 SHIELD\n-10286 35248 0\n",
+            "view": " 237\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (103574, 39811) at power 0\nPod 2 of player $1 moves towards (-69301, 65634) at power 200\n",
+            "stdout": "103574 39811 0\n-69301 65634 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 238\n9893.0 5978.0 28 78 0 0 44839 -13504 -0.5061370695611953 1 0 2\n\"\"\n9686.0 679.0 -23 61 0 0 -10286 35248 2.0943953042854853 0 2 3\n\"\"\n10435.0 3964.0 186 -9 0 0 103574 39811 0.3665118741982433 0 0 1\n\"\"\n10879.0 5251.0 308 -196 200 0 -69301 65634 2.4958257486535005 0 1 4\n\"\"\n2:59 1:99\n69 0.06670809120594892 3 10540 5467 0 9862 5891 819.8132814459611 -114 127\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (-20039, 27444) at power 0\n",
+            "stdout": "49158 -1654 0\n-20039 27444 0\n",
+            "view": " 239\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (88149, 66896) at power 0\nPod 2 of player $1 moves towards (-68984, 65432) at power 200\n",
+            "stdout": "88149 66896 0\n-68984 65432 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 240\n9921.0 6056.0 23 66 0 0 49158 -1654 -0.191977804202216 0 0 2\n\"\"\n9663.0 740.0 -19 51 0 0 -20039 27444 2.4085452680868364 0 2 3\n\"\"\n10621.0 3955.0 158 -7 0 0 88149 66896 0.6806711395572227 0 0 1\n\"\"\n11027.0 5175.0 126 -64 200 0 -68984 65432 2.4958215259954146 0 1 4\n\"\"\n2:58 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (-26878, 17009) at power 200\n",
+            "stdout": "44905 -13336 0\n-26878 17009 200\n",
+            "view": " 241\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (65084, 87822) at power 0\nPod 2 of player $1 moves towards (-68836, 65356) at power 200\n",
+            "stdout": "65084 87822 0\n-68836 65356 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 242\n9944.0 6122.0 19 56 0 0 44905 -13336 -0.5061370695611953 0 0 2\n\"\"\n9461.0 872.0 -171 112 200 0 -26878 17009 2.7227045334458158 0 2 3\n\"\"\n10779.0 3948.0 134 -5 0 0 65084 87822 0.994830404916202 0 0 1\n\"\"\n10993.0 5231.0 -28 47 200 0 -68836 65356 2.4958215259954146 0 1 4\n\"\"\n2:57 1:97\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 waits for its engine to reload\nPod 2 of player $0 moves towards (-30319, 5053) at power 200\n",
+            "stdout": "37223 -23132 0\n-30319 5053 200\n",
+            "view": " 243\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (36660, 100540) at power 200\nPod 2 of player $1 moves towards (-68870, 65412) at power 200\n",
+            "stdout": "36660 100540 200\n-68870 65412 200\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 244\n9963.0 6178.0 16 47 0 0 37223 -23132 -0.8202963349201746 0 0 2\n\"\"\n9091.0 1005.0 -314 112 200 0 -30319 5053 3.036863798804795 0 2 3\n\"\"\n10965.0 4136.0 157 159 200 0 36660 100540 1.3089896702751813 0 0 1\n\"\"\n10805.0 5398.0 -159 142 200 0 -68870 65412 2.4958215259954146 0 1 4\n\"\"\n2:56 1:96\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (44947, -13214) at power 0\nPod 2 of player $0 moves towards (-30689, 5186) at power 200\n",
+            "stdout": "44947 -13214 0\n-30689 5186 200\n",
+            "view": " 245\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (5731, 103998) at power 200\nPod 2 of player $1 enabled its shield\n",
+            "stdout": "5731 103998 200\n-69058 65579 SHIELD\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n",
+            "view": " 246\n9979.0 6225.0 13 39 0 0 44947 -13214 -0.5061466232570585 0 0 2\n\"\"\n8578.0 1138.0 -435 112 200 0 -30689 5186 3.0368740541020287 0 2 3\n\"\"\n11112.0 4495.0 124 304 200 0 5731 103998 1.6231489356341606 0 0 1\n\"\"\n10646.0 5540.0 -135 120 0 0 -69058 65579 2.4958215259954146 1 1 4\n\"\"\n2:55 1:95\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (49244, -1407) at power 200\nPod 2 of player $0 moves towards (-30547, -7178) at power 200\n",
+            "stdout": "49244 -1407 200\n-30547 -7178 200\n",
+            "view": " 247\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (-24724, 97853) at power 200\nPod 2 of player $1 waits for its engine to reload\n",
+            "stdout": "-24724 97853 200\n-46711 87455 0\n",
+            "summary": "$0 rank: 2\n$1 rank: 1\n\u00a4RED\u00a4End reached\u00a7RED\u00a7\n",
+            "view": " 248 endReached\n10091.0 6348.0 15 205 200 0 49244 -1407 -0.1919873578980792 0 0 2\n\"\"\n7947.0 1208.0 -536 59 200 0 -30547 -7178 -2.9321598799043347 0 2 3\n\"\"\n11176.0 4974.0 305 146 200 0 -24724 97853 1.93730820099314 0 0 1\n\"\"\n10597.0 5550.0 -213 167 0 0 -46711 87455 2.1816622606364353 0 1 4\n\"\"\n2:54 1:100\n70 0.4918779268354076 3 10580 5599 0 10082 6225 307.4869047460346 37 60\n71 0.9624179379636735 3 10606 5542 2 11162 4967 442.1843229058949 54 185\n",
+            "keyframe": true,
+            "agentId": 1
+        }
+    ],
+    "gameId": 470942877,
+    "refereeInput": "seed=306524996\npod_per_player=2\npod_timeout=100\nmap=11189 5451 7244 6660 5416 2816 10342 3391\n",
+    "scores": [
+        1.0,
+        2.0
+    ],
+    "ranks": [
+        1,
+        0
+    ],
+    "agents": [
+        {
+            "index": 0,
+            "codingamer": {
+                "userId": 351062,
+                "pseudo": "Neumann",
+                "enable": false,
+                "avatar": 17173563008577
+            },
+            "agentId": 3002946,
+            "score": 51.45577137974776,
+            "valid": true
+        },
+        {
+            "index": 1,
+            "codingamer": {
+                "userId": 1400179,
+                "pseudo": "reCurse",
+                "enable": false,
+                "avatar": 29364943044767
+            },
+            "agentId": 2843387,
+            "score": 59.72470465187436,
+            "valid": true
+        }
+    ]
+}
