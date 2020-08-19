@@ -13,11 +13,7 @@ output_path = f'extracted/{player_name}/{agent_id}'
 if not os.path.exists(output_path):
     os.makedirs(output_path)
 
-from collections import namedtuple
-# Point = namedtuple('Point', 'x y')
-# Pod = namedtuple('Pod', 'id position speed angle waypoint total_waypoints team_is_first pod_is_first')
-Action = namedtuple('Action', 'aim power')
-Frame = namedtuple('Frame', 'pods actions')
+from typing import List
 
 @dataclass
 class Point:
@@ -34,6 +30,16 @@ class Pod:
     total_waypoints: int
     team_is_first: int
     pod_is_first: int
+
+@dataclass
+class Action:
+    aim: Point
+    power: int
+
+@dataclass
+class Frame:
+    pods: List[Pod]
+    actions: List[Action]
 
 frames = []
 
