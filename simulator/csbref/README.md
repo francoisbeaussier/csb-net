@@ -1,3 +1,5 @@
+Original code available at https://github.com/robostac/coders-strike-back-referee
+
 # coders-strike-back-referee
 Brutaltester compatible referee for coders strike back
 
