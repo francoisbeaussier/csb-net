@@ -8,6 +8,7 @@ player_name = 'recurse'
 
 # We download using the agent_id, so we learn from the same bot version
 agent_id = 2843387 # reCurse
+agent_id = 2697232 # Aelyanne
 
 game_list_url = 'https://www.codingame.com/services/gamesPlayersRanking/findLastBattlesByAgentId'
 
