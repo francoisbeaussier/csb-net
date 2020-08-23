@@ -4,11 +4,13 @@ import time
 import os.path
 from os import path
 
-player_name = 'recurse'
 
 # We download using the agent_id, so we learn from the same bot version
+player_name = 'recurse'
 agent_id = 2843387 # reCurse
-agent_id = 2697232 # Aelyanne
+
+player_name = 'aelyanne'
+agent_id = 2697232 # Aelyanne, simpler bot, top of gold league, only try to reach the next waypoint
 
 game_list_url = 'https://www.codingame.com/services/gamesPlayersRanking/findLastBattlesByAgentId'
 

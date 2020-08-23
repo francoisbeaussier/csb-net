@@ -8,6 +8,9 @@ from dataclasses import dataclass
 player_name = 'reCurse' # reCurse
 agent_id = 2843387
 
+player_name = 'aelyanne' # Aelyanne
+agent_id = 2697232 # Aelyanne, simpler bot, top of gold league, only try to reach the next waypoint
+
 input_path = f'converted/{player_name}/{agent_id}'
 output_path = f'extracted/{player_name}/{agent_id}'
 if not os.path.exists(output_path):
