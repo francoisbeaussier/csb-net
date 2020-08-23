@@ -1,0 +1,80 @@
+{
+    "frames": [
+        {
+            "gameInformation": "",
+            "summary": "$0 rank: 1\n$1 rank: 1\n",
+            "view": " 0\nCodersStrikeBack\n16000 9000 400 600 4 0.3141592653589793\n4084 4639 13022 1923 6558 7838 7497 1332 12709 7113\n0 3939.0 4161.0 0 4229.0 5117.0 1 3648.0 3204.0 1 4520.0 6074.0\n3939.0 4161.0 0 0 0 0 null null null 0 1 1\n\"\"\n4229.0 5117.0 0 0 0 0 null null null 0 1 1\n\"\"\n3648.0 3204.0 0 0 0 0 null null null 0 1 1\n\"\"\n4520.0 6074.0 0 0 0 0 null null null 0 1 1\n\"\"\n1:100 1:100\n",
+            "keyframe": true,
+            "agentId": -1
+        },
+        {
+            "gameInformation": "Pod 1 of player $0 moves towards (11566, 2281) at power 100\nPod 2 of player $0 moves towards (10203, 2947) at power 100\n",
+            "stdout": "11566 2281 100\n10203 2947 100\n",
+            "view": " 1\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 moves towards (13022, 1923) at power 100\nPod 2 of player $1 moves towards (13022, 1923) at power 100\n",
+            "stdout": "13022 1923 100\n13022 1923 100\n",
+            "summary": "$0 rank: 1\n$1 rank: 2\n",
+            "view": " 2\n4036.0 4137.0 82 -20 100 0 11566 2281 -0.24167498242034338 0 1 1\n\"\"\n4323.0 5083.0 79 -29 100 0 10203 2947 -0.34842151304782315 0 1 2\n\"\"\n3747.0 3190.0 84 -11 100 0 13022 1923 -0.1358133316974574 0 1 4\n\"\"\n4610.0 6030.0 76 -37 100 0 13022 1923 -0.4541938608684064 0 1 3\n\"\"\n1:99 2:99\n",
+            "keyframe": true,
+            "agentId": 1
+        },
+        {
+            "gameInformation": "\u00a4RED\u00a4Timeout: the program did not provide 2 input lines in due time... $0 will no longer be active in this game.\u00a7RED\u00a7\n",
+            "stdout": "",
+            "view": " 3\n",
+            "keyframe": false,
+            "agentId": 0
+        },
+        {
+            "gameInformation": "Pod 1 of player $1 boosts towards (12546, 1985)\nPod 2 of player $1 boosts towards (12591, 2132)\n",
+            "stdout": "12546 1985 BOOST\n12591 2132 BOOST\n",
+            "summary": "$0 eliminated! rank: 2\n$1 rank: 1\n",
+            "view": " 4\n4118.0 4117.0 69 -17 0 1 null null -0.24167498242034338 0 1 3\n\"\"\n4402.0 5054.0 67 -24 0 1 null null -0.34842151304782315 0 1 4\n\"\"\n4475.0 3091.0 618 -84 650 0 12546 1985 -0.1361007565764198 0 1 1\n\"\"\n5270.0 5708.0 561 -273 650 0 12591 2132 -0.4543326719780204 0 1 2\n\"\"\n2:98 1:98\n",
+            "keyframe": true,
+            "agentId": 1
+        }
+    ],
+    "gameId": 482785912,
+    "refereeInput": "seed=812568938\npod_per_player=2\npod_timeout=100\nmap=4084 4639 13022 1923 6558 7838 7497 1332 12709 7113\n",
+    "scores": [
+        0.0,
+        2.0
+    ],
+    "ranks": [
+        1,
+        0
+    ],
+    "tooltips": [
+        "{\"turn\":3,\"text\":\"$0: timeout!\",\"event\":0}"
+    ],
+    "agents": [
+        {
+            "index": 0,
+            "codingamer": {
+                "userId": 1500783,
+                "pseudo": "NotwenCaasi",
+                "enable": false,
+                "avatar": 31964369123184
+            },
+            "agentId": 3069337,
+            "score": 39.58141452371347,
+            "valid": false
+        },
+        {
+            "index": 1,
+            "codingamer": {
+                "userId": 3607018,
+                "pseudo": "Aelyanne",
+                "enable": false,
+                "avatar": 38790902672996
+            },
+            "agentId": 2697232,
+            "score": 38.52451027564854,
+            "valid": true
+        }
+    ]
+}
